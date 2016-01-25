@@ -1,0 +1,81 @@
+.post-summary {
+  margin-bottom: 3em;
+}
+
+.post-title {
+  @extend %main-header;
+  line-height: 1.2em;
+
+  .post-summary & {
+    font-size: 1.3em;
+    margin: 0.3em 0;
+  }
+
+  .post-header & {
+    margin-bottom: 0.3em;
+  }
+}
+
+.post-content {
+  @extend %body-text;
+}
+
+/*
+.post-summary {
+  margin-bottom: 3em;
+
+  .post-date {
+    color: $secondary-text-color;
+  }
+}
+
+.post-header {
+  margin-bottom: 2em;
+  margin-right: $sidebar-width;
+}
+
+.post-title {
+  @extend %main-header;
+  line-height: 1.2em;
+
+  .post-summary & {
+    font-size: 1.3em;
+    margin: 0.3em 0;
+  }
+
+  .post-header & {
+    margin-bottom: 0.3em;
+  }
+}
+
+.post-meta {
+  color: $secondary-text-color;
+}
+
+.post-blurb {
+  line-height: 1.5em;
+}
+
+.post-content {
+  @extend %body-text;
+  margin-right: $sidebar-width;
+}
+
+@media screen and (max-width: $content-width) {
+  .post-content {
+    margin: 0;
+  }
+
+  .post-header {
+    margin-right: 0;
+  }
+
+  .post-blurb {
+    font-size: 0.9em;
+  }
+
+  .post-summary {
+    margin-bottom: 2em;
+  }
+}
+*/

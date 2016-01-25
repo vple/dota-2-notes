@@ -1,0 +1,68 @@
+body {
+  margin: 0;
+}
+
+a,
+div,
+h1,
+h2,
+h3,
+h4,
+em,
+img,
+li,
+ol,
+p,
+figure,
+pre,
+span,
+strong,
+table,
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr,
+ul {
+  border: 0;
+  box-sizing: content-box;
+  font: inherit;
+  font-size: 100%;
+  margin: 0;
+  max-height: none;
+  max-width: none;
+  padding: 0;
+  text-transform: none;
+  vertical-align: baseline;
+}
+
+ol,
+ul {
+  list-style: none;
+
+  li {
+    list-style-type: none;
+  }
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+select {
+  display: inline;
+  height: auto;
+  line-height: 1.3;
+  padding: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

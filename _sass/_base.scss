@@ -1,0 +1,33 @@
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+body {
+  color:        $body-text-color;
+  font-family:  $body-font-family;
+  font-size:    $body-font-size;
+}
+
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bolder;
+}
+
+.page-content {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: $content-width;
+  padding: 3em;
+}
+
+a {
+  color: $link-color;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
