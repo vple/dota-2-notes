@@ -7,6 +7,13 @@
     text-decoration: none;
   }
 
+  .post-title {
+    color: $body-text-color;
+    font-size: 1.5em;
+    margin: 0 0 .25em 0;
+    transition: color 0.2s;
+  }
+
   .hero-wrap {
     margin-bottom: 0;
     line-height: 0;
@@ -19,8 +26,16 @@
     margin-bottom: 1.5em;
   }
 
+  .post-blurb {
+    margin: 0;
+  }
+
   &:hover {
     background-color: rgba($lightest-red, 0.5);
+
+    .post-title {
+      color: $heading-color;
+    }
   }
 }
 

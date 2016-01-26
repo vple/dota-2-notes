@@ -1,0 +1,16 @@
+.image-container {
+  margin: 1.5em 0;
+
+  .image {
+    max-width: 100%;
+  }
+
+  .caption {
+    text-align: center;
+    line-height: 1em;
+    margin: 0.5em;
+    color: $caption-text-color;
+    font-size: $caption-font-size;
+    font-weight: lighter;
+  }
+}

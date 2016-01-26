@@ -24,10 +24,12 @@ $link-color:          $light-red;
 $line-color:          $medium-red;
 $heading-color:       $medium-red;
 $nav-link-hover-color:  $cinnabar-red;
+$caption-text-color:  $medium-gray;
 
 // Fonts
 $body-font-size: 17px;
-$body-font-family: 'Roboto', sans-serif; //Open Sans', sans-serif;
+$body-font-family: 'Roboto', sans-serif;
+$caption-font-size: 14px;
 
 // Sizing
 $header-height: 80px;
@@ -37,6 +39,7 @@ $content-width: 45em;
 %main-header {
   color: $medium-red;
   font-size: 2em;
+  font-weight: bold;
 }
 
 %body-lists {
@@ -67,8 +70,8 @@ $content-width: 45em;
   }
 
   // Header sizes
-  h1 { font-size: 1.7em; }
-  h2 { font-size: 1.4em; }
+  h1 { font-size: 1.7em; font-weight: bolder; }
+  h2 { font-size: 1.4em; font-weight: bolder; }
   h3,
   h4,
   h5,

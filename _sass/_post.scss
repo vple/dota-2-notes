@@ -2,15 +2,6 @@
   @extend %main-header;
   line-height: 1.2em;
 
-  .post-summary & {
-    font-size: 1.3em;
-    margin: 0.3em 0;
-
-    a {
-      color: $heading-color;
-    }
-  }
-
   .post-header & {
     margin-bottom: 0.3em;
   }

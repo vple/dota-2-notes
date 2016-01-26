@@ -14,6 +14,7 @@ $nav-link-color:  $medium-red;
   padding-right: 80px;
   font-size: 1.3em;
   color: $nav-link-color;
+  font-weight: bold;
 }
 
 .main-header-nav {
@@ -26,6 +27,7 @@ $nav-link-color:  $medium-red;
 .main-header-nav-links {
   display: inline-block;
   height: 100%;
+  font-weight: bolder;
 
   a:hover {
     text-decoration: none;

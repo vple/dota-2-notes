@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: Welcome!
 navigation: about
+show_header: true
 ---
-#Welcome!
 
 Dota 2 Notes is an on-the-side project of mine to provide quality, high-level
 resources to help others get better at Dota 2. 
