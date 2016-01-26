@@ -2,6 +2,7 @@
 layout: article
 title: Anti-Mage Primer
 navigation: articles
+hero-image: http://cdn.dota2.com/apps/dota2/images/heroes/antimage_full.png
 ---
 Anti-Mage is an agility hard carry known for his ability to flash farm. When in the hands of a good player Anti-Mage can be quite frustrating to deal with. In addition to farming quickly, Anti-Mage can be difficult to gank and is quite strong at split pushing. Without proper coordination, a team will find themselves quickly losing their towers and then the game against a solid team with an Anti-Mage.
 

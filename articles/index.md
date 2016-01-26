@@ -4,8 +4,8 @@ title: Articles
 navigation: articles
 ---
 
-## Latest Articles
-
-{% for item in site.posts limit 5 %}
-  <a href="{{ item.url }}" title="{{ item.title }}">{{ item.title }}</a>
-{% endfor %}
+<ul class="post-summaries-container">
+  {% for post in site.posts %}
+    {% include article-summary.html post=post %}
+  {% endfor %}
+</ul>

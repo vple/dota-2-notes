@@ -1,23 +1,21 @@
 ---
-layout: default
+layout: page
 title: Dota 2 Notes
 ---
 
 <div id="home">
-  <h1>Dota 2 Notes</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  <h1>Welcome to Dota 2 Notes!</h1>
+  <p>
+    Quality, high-level content to help you become a better player.
+  </p>
+
+  <br/>
+
+  <h2>Latest Articles</h2>
+  <ul>
+    {% for post in site.posts limit 3 %}
+      {% include article-summary.html post=post %}
     {% endfor %}
   </ul>
 
-  <h1>Interviews, Talks, Etc</h1>
-  <ul class="posts">
-    <li><span>02 Apr 2005</span> &raquo; <a href="http://joshuaink2006.johnoxton.co.uk/blog/240/seven-and-a-half-questions-for-tom-werner">JoshuaInk: Seven and a half questions for Tom Werner</a></li>
-  </ul>
-
-  <h1>Prominent Open Source Projects</h1>
-  <ul class="posts">
-    <li><a href="http://github.com/mojombo/chronic/">Chronic:</a> Ruby natural language date/time parser.</li>
-  </ul>
 </div>
