@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Anti-Mage Primer
+category: articles
 navigation: articles
 hero-image: http://cdn.dota2notes.com/images/valve/heroes/antimage_full.png
 ---
