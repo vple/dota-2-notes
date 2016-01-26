@@ -1,7 +1,3 @@
-.post-summary {
-  margin-bottom: 3em;
-}
-
 .post-title {
   @extend %main-header;
   line-height: 1.2em;
@@ -9,6 +5,10 @@
   .post-summary & {
     font-size: 1.3em;
     margin: 0.3em 0;
+
+    a {
+      color: $heading-color;
+    }
   }
 
   .post-header & {
@@ -16,8 +16,13 @@
   }
 }
 
+.post-blurb {
+  line-height: 1.5em;
+}
+
 .post-content {
   @extend %body-text;
+  @extend %body-lists;
 }
 
 /*

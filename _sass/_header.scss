@@ -2,8 +2,8 @@ $header-height:   50px;
 $nav-link-color:  $medium-red;
 
 .main-header {
-  background-color: $lightest-gray;
-  border-bottom: 1px solid $line-color;
+  background-color: $header-background-color;
+  border-bottom: 3px solid $line-color;
   height: $header-height;
 }
 
@@ -47,8 +47,9 @@ $nav-link-color:  $medium-red;
   }
 
   &:hover {
-    background-color: $medium-gray;
-    color: $light-red;
+    background-color: $nav-link-background-hover-color;
+    color: $nav-link-hover-color;
+    border-bottom: 3px solid $nav-link-hover-color;
   }
 }
 

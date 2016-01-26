@@ -1,0 +1,25 @@
+<li class="post-summary">
+  <header>
+    <a href="{{ post.url }}" title="{{ post.title }}">
+      <div class="content">
+        {% if post.hero-image %}
+        <div class="hero-wrap">
+          <img class="hero-img" src="{{ post.hero-image }}">
+        </div>
+        {% endif %}
+
+        <h2 class="post-title">
+          {{ post.title }}
+        </h2>
+
+        <p class="post-blurb">
+          {% if post.blurb %}
+            {{ post.blurb }}
+          {% else %}
+            {{ post.content | strip_html | truncatewords: 50 }}
+          {% endif %}
+        </p>
+      </div>
+    </a>
+  </header>
+</li>

@@ -3,18 +3,27 @@ $dark-gray:     #444;
 $medium-gray:   #666;
 $light-gray:    #888;
 $lightest-gray: #CCC;
+$silver:        #BDC3C7;
 
 // http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
 $lightest-red:  #FFAAAA;
 $light-red:     #D46A6A;
-$medium-red:    #AA3939;
+//$medium-red:    #AA3939;
+$medium-red:    #C0392B;
 $dark-red:      #801515;
 $darkest-red:   #550000;
+$cinnabar-red:  #E74C3C;
+
+// Background colors
+$header-background-color:         $silver;
+$nav-link-background-hover-color: $medium-gray;
 
 // Element colors
 $body-text-color:     #000;
-$link-color: $light-red;
-$line-color: $medium-red;
+$link-color:          $light-red;
+$line-color:          $medium-red;
+$heading-color:       $medium-red;
+$nav-link-hover-color:  $cinnabar-red;
 
 // Fonts
 $body-font-size: 17px;
@@ -30,17 +39,7 @@ $content-width: 45em;
   font-size: 2em;
 }
 
-%body-text {
-  p,
-  ul,
-  ol,
-  pre,
-  figure {
-    line-height: 1.5em;
-    margin: 1em 0;
-  }
-
-  // Lists
+%body-lists {
   ul,
   ul li {
     list-style-type: disc;
@@ -54,6 +53,17 @@ $content-width: 45em;
   ul,
   ol {
     padding-left: 2.5em;
+  }  
+}
+
+%body-text {
+  p,
+  ul,
+  ol,
+  pre,
+  figure {
+    line-height: 1.5em;
+    margin: 1em 0;
   }
 
   // Header sizes
@@ -70,7 +80,7 @@ $content-width: 45em;
   h4,
   h5,
   h6 {
-    color: $medium-red;
+    color: $heading-color;
     line-height: 1.5em;
     margin: $body-font-size 0;
   }
