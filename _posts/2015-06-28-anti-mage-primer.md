@@ -2,8 +2,9 @@
 layout: article
 title: Anti-Mage Primer
 navigation: articles
-hero-image: http://cdn.dota2.com/apps/dota2/images/heroes/antimage_full.png
+hero-image: http://cdn.dota2notes.com/images/valve/heroes/antimage_full.png
 ---
+
 Anti-Mage is an agility hard carry known for his ability to flash farm. When in the hands of a good player Anti-Mage can be quite frustrating to deal with. In addition to farming quickly, Anti-Mage can be difficult to gank and is quite strong at split pushing. Without proper coordination, a team will find themselves quickly losing their towers and then the game against a solid team with an Anti-Mage.
 
 This is the first article for my primer series, in which I hope to outline the fundamentals of playing cores and carries. Although these articles are guides to playing the hero, they're intended to be a bit different as they explain how to think about and approach the game to maximize your effectiveness as a particular hero, rather than just provide some skill or item builds. Moreover, I hope that players of varying experience levels can find something useful.
@@ -16,7 +17,9 @@ Let's get started!
 
 As Anti-Mage, you'll be aiming to play your own solo game for at least the first half of the game. Your game plan for this portion of the game is straightforward: farm quickly and split push. In particular, this means that you will often not come to the aid of your team if a fight breaks out, unless perhaps the fight is extremely close to where you already are. Instead, you will use that space to farm, push, and hopefully take towers. To an extent, you can ignore what your team is doing---you only care about where they are on the map.
 
-Utilizing space to take undefended towers.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-undefended-tower.jpeg"
+  caption="Utilizing space to take undefended towers." %}
 
 Although this sounds contradictory to the usual notion of teamwork, this actually gets more done for your team. Teamwork with an Anti-Mage is not about fighting together but rather working together to increase the lead that your team has over the enemy team. When your team groups together on one side of the map while you split push the other side, you are creating pressure on the enemy team by forcing them to make a decision on how to deal with your team. Oftentimes, it will be very difficult for your opponents to completely deal with your team because this play style often forces them to give something up, be it intentionally or from mistakes. We'll take a deeper look at this later, but this is the bread and butter team dynamic of playing with Anti-Mage.
 
@@ -28,35 +31,49 @@ If your opponent deals with your team well, your opponents will have some kind o
 
 Efficient farming on Anti-Mage actually requires more than just being able to last hit; it necessitates good skill, item, and movement decisions as well.
 
-### Farming with battle fury
+### Farming With Battle Fury
 
 We'll start with one of the most fundamental Anti-Mage skills: farming with your battle fury. The basic technique is straightforward: kill some creeps, then blink to the next group of creeps to farm.
 
-Blinking between creep camps.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-blink-creeps.jpeg"
+  caption="Blinking between creep camps." %}
 
 An important part of maximizing your farm depends on your map movement. As with any carry, this usually means farming areas of the map that your other core heroes are not farming so as to maximize your team's farm. Anti-Mage is no exception. However, thanks to his low cooldown blink, Anti-Mage is often able to farm more dangerous areas of the map and leave safer areas of the map for his allies. This also ties into split-pushing, but we'll cover that more later.
 
-Farming dangerous areas.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-farm-dangerous.png"
+  caption="EG.Fear farming dangerous areas." %}
 
 In addition to farming different areas of the map, it's important to know where creeps are available. Anti-Mage is such a fast farmer that he can easily clear most or all of a jungle's creeps each minute (depending on his items). As you farm your current set of creeps, think about which creeps you will farm next. Will you go further down the lane, or will you move to a different camp in the jungle? Remember also that new jungle camps will respawn each minute, so you will sometimes be able to trace your path back out of the jungle and back to a lane.
+
 This farming process is largely fluid and becomes natural with practice. As an example, here's a farming route that clears out creeps on the upper half of the map. Note the path drawn on the minimap.
 
-A route through the Radiant ancients, Dire jungle, and Dire top lane.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-farm-route.jpeg"
+  caption="A route through the Radiant ancients, Dire jungle, and Dire top lane." %}
 
-### Farming before battle fury
+### Farming Before Battle Fury
 
 There isn't very much to say in terms of farming during the laning phase that is specific to Anti-Mage. So, we won't cover general aspects that you should become familiar with, such as last hitting, controlling the creep wave, or manipulating creep aggro.
+
 However, there is an aspect of farming that is particularly suited for Anti-Mage: utilizing the jungle. You will often first start using this as the laning phase is ending and you are more self-sufficient. Typically, your supports and the enemy offlaner have started to leave the lane to do things around the map at this point.
 
-Pushing out the lane.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-pushing.jpeg"
+  caption="Pushing out the lane." %}
 
 The idea here is that you push out your creep wave as hard as you can, so it goes into the enemy tower. You then move into your jungle to farm a camp or two, then return to your lane to farm the next creep wave. Alternatively, you move into the jungle to stack a camp for later, then return to the lane. This movement isn't unique to Anti-Mage, but he is particularly good at it thanks to his blink.
-Farming and pulling jungle camps.
+
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-pulling.jpeg"
+  caption="Farming and pulling jungle camps." %}
 
 If you find that there is still a lot of action in your lane after the laning phase (often because of enemy rotations), you should generally go to a different area to farm. If there isn't an available and relatively safe lane elsewhere, you can always move into the jungle.
+
 The main takeaway here is that you can and should farm jungle creeps, even before you finish your battle fury.
 
-### Farming improvements
+### Farming Improvements
 
 Although not vital to farm with Anti-Mage, there are some subtle changes you can make to your actions to improve your farming.
 
@@ -78,16 +95,19 @@ There are a few rules of thumb for deciding when to take skill points and when t
 
 As mentioned, split pushing is an integral part of Anti-Mage's game. Situationally, there will be times for you to split push at any time during the game. You can split push early game when the opposing offlaner leaves, mid game as you farm and your team creates space elsewhere, and late game as your team aims to chip away at towers and force your opponent to make a mistake.
 
-### Split push scenarios
+### Split Push Scenarios
 
 The crucial factor in effective split pushing is identifying when to split push a lane and doing so as soon as possible. This is because the sooner you start pushing that lane, the less time your opponent has before they have to commit to a reaction. If they wait too long, they'll lose too much to your split push.
 
-Preparing for a potential split push, as Radiant is probably going to defend their bottom tier 1.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-split-push.jpeg"
+  caption="Preparing for a potential split push, as Radiant is probably going to defend their bottom tier 1." %}
+
 Note that, in this case, split push refers to you, as Anti-Mage, are actively pushing a lane and going for the tower. It does not refer to coordinating with your team so that they push one lane while you push another (which is the more usual notion of split push). You are, essentially, always looking for the former split push opportunities. We'll call the former solo split pushing and the latter team split pushing.
 
 So, how do you recognize these scenarios? The basic idea is that you can solo split push when there are no enemy heroes to defend a tower. Pretty simple. Recognizing this scenario as early as possible is a bit trickier, but roughly boils down to the opposing team having a higher priority than defending a tower. There are many possible ways that these solo split push scenarios come about, but here are some common ones:
-The enemy team is grouped up and pushing your tower or rax.
 
+* The enemy team is grouped up and pushing your tower or rax.
 * Your team (excluding you) is grouped up and pushing a lane or looking for a gank.
 * The enemy team is trying to take Roshan.
 * The enemy team is farming, and you know where enough of there heroes are.
@@ -98,7 +118,9 @@ There are no absolute rules for knowing this. It depends on your game, your hero
 
 First, if your team is pushing a tier 1 on the other side of the map, you will usually never want to rejoin them for a fight. Whatever you can accomplish is usually more valuable. Any tower you can take is good here, and you should split push if you can. If enemy heroes show up to stop you, your best course of action is usually to go back to farming safer areas of the map. Note that, in this case, it's usually not worth it to TP and help your allies. This is because you'll probably only pick up one kill, whereas you could have gotten much more gold from farming creeps.
 
-Safely split pushing a tier 2, even at 15 minutes.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-split-tower.jpeg"
+  caption="Safely split pushing a tier 2, even at 15 minutes." %}
 
 Second, suppose the enemy team is going to take Roshan. It's usually a good call to contest it, as the aegis and Roshan gold/exp are quite valuable. It's also valuable to ensure that your opponent doesn't have these advantages. There are also reasons as to why you might not want to show up immediately, or at all:
 
@@ -120,17 +142,21 @@ If you decide to TP back for your team to take a fight, you should often be able
 
 You might decide that you want to participate in the ensuing fight, preferably with the numbers advantage if you can get it. If this is the case, you should consider what events should trigger your TP. It might be that you see your opponent TPing to defend and you know your allies can initiate when you TP back. It might be that you were waiting for the fight to break out, in which case you should TP back as soon as someone initiates. It might be that you can get your rax first and then TP back immediately to hold your own. Regardless, you should try to think about this kind of thing in advance so that you can respond immediately when the time comes.
 
-Radiant can no longer push since Medusa is leaving to defend.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-force-tp.jpeg"
+  caption="Radiant can no longer push since Medusa is leaving to defend." %}
 
-### Killing the defender
+### Killing The Defender
 
 Killing the defender is an extremely powerful technique if done successfully. Unsurprisingly, the idea is that you can sometimes kill the hero that comes to defend your split push. Often times this is true if the defender is a support, underfarmed, or just naturally weak to Anti-Mage. Successfully killing the defender leaves your opponent in an even worse position, since you are still creating pressure with your split push while your opponent is a man down.
 
 Relatedly, be aware that Anti-Mage is extremely strong at killing isolated targets once you have your manta style. If you're ahead on farm (which you ideally would be), it becomes even easier. The usual way of getting this kill is to blink on top of your target and manta, allowing you and your illusions to hit (and mana burn) your target. If you can't kill them with just right clicks, a mana void usually finishes the job.
 
-A close but unsuccessful attempt to kill the defending Lina. It forces several TPs as well.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-kill-defender.png"
+  caption="A close but unsuccessful attempt to kill the defending Lina. It forces several TPs as well." %}
 
-### Setting up split push
+### Setting Up Split Push
 
 You can go a step further and help spilt push scenarios occur more frequently. This is easy to do---keep your targetted lane pushed and try to farm as close as you can to the lane equilibrium. This way, you can more quickly get to your opponent's structures if you decide you do want to split push.
 
@@ -138,13 +164,15 @@ Oftentimes, it can be useful when farming to push a lane almost all the way to t
 
 If you can, try to get your team to have multiple lanes pushed at all times. This forces your opponent to respond to one of these lanes, giving you more information as to whether or not it is safe for you to split push.
 
-Forcing a response with just Anti-Mage illusions.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-illusion-push.png"
+  caption="Forcing a response with just Anti-Mage illusions." %}
 
 ## Itemization
 
 Anti-Mage follows a fairly static item build. Power treads, battle fury, and manta style are the most well-known items for Anti-Mage to build. Other typical items include Vladimir's offering, abyssal blade, heart of tarrasque, butterfly, and black king bar.
 
-### Battle fury
+### Battle Fury
 
 There are three possible ways you can buy your battle fury: with no boots, after brown boots, and after power treads. You will almost always want to get battle fury after power treads.
 
@@ -154,7 +182,8 @@ Battle fury with boots is better, but still not great. Unlike before, you have a
 
 One thing to point out is that it's fine to grab your ring of health before power treads to help you with sustain. It's okay to get your ring of health before boots as well, but that decision should be based on your lane.
 
-### Standard items
+### Standard Items
+
 In case it wasn't already clear, your first two big items should be treads and battle fury, in that order. Your overall first goal with Anti-Mage is getting a battle fury so you can farm effectively, as we mentioned before. But what about afterwards?
 
 The next two items you should get are Vladimir's offering and manta style, again in that order. Vladimir's offering is good for Anti-Mage for three main reasons:
@@ -165,7 +194,9 @@ The next two items you should get are Vladimir's offering and manta style, again
 
 The last point is perhaps the most important one, as it allows you to deal damage faster while keeping your creeps alive longer.
 
-This stack would be a lot harder to take without a Vladimir's offering.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-ancient-stack.jpeg"
+  caption="This stack would be a lot harder to take without a Vladimir's offering." %}
 
 Manta style is a powerful item on Anti-Mage because your illusions also mana break. Obtaining manta style is the point when Anti-Mage starts to become a threat for solo heroes---he can blink and manta, allowing him to mana burn three times as much. Of course, this also makes it easier to get off a powerful mana void. Since you generally don't want to fight at all before manta, players will hold off on maxing mana break and instead max it as they finish their manta style.
 
@@ -173,7 +204,7 @@ Anti-Mage also benefits from all of the usual manta active benefits---using illu
 
 These are the standard items on Anti-Mage: treads, battle fury, Vladimir's offering, and manta style. You'll see every pro go for this item build, unless perhaps they are drastically behind.
 
-### Late game items
+### Late Game Items
 
 There's not too much to talk about for these. Anti-Mage's set of late game items is fairly standard and not that large. There's no standard order either; you should adapt your item purchase to what's necessary in your game.
 
@@ -188,7 +219,7 @@ There are two big items that are not very useful on Anti-Mage: monkey king bar a
 
 Lastly, remember that mana break is a unique attack modifier. This means that desolator, eye of skadi, and all lifesteal (except Vladimir's offering) are largely useless on Anti-Mage.
 
-### Early game items
+### Early Game Items
 
 Anti-Mage's early game itemization is probably the most overlooked when it comes to his items.
 
@@ -203,34 +234,43 @@ Now, let's first consider starting items. The most important notion for Anti-Mag
 * Ring of protection, two sets of regen, and picking up a stout shield at the side shop.
 * Ring of protection, stout shield, one set of regen, and an iron branch.
 
-EG.Fear's starting items.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-starting-items.png"
+  caption="EG.Fear's starting items." %}
 
 With the exception of the ring of protection, you can buy any of the remaining early game items at the side shop: quelling blade, boots, ring of health, tread components, sage's mask. Tailor the ordering of these items to what you need. If you need to contest last hits better, go for the quelling blade. If you're taking a lot of harass but unable to bully out your opponent, go for the ring of health. If you can mana break harass effectively, get boots.
 
-Opting for quelling blade and boots for better lane control.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-quelling-blade.jpeg"
+  caption="Opting for quelling blade and boots for better lane control." %}
 
 ## Fighting
 
 This primer wouldn't be complete with a piece on fighting, namely taking team fights with the rest of your team.
 
-### When to fight
+### When To Fight
 
 We've talked about killing solo opponents while split pushing, but when should you group up with your team?
+
 There are two good reasons to group up with your team. First, to take an important objective that would otherwise be difficult, impossible, or pointless for your team to try to take on their own. A clear example of this is Roshan. Your team is probably lacking the damage to finish it without you, and you are probably the intended aegis carrier.
 
-Grouping up for an easy Roshan.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-roshan.jpeg"
+  caption="Grouping up for an easy Roshan." %}
 
 Do note that we needed to qualify this objective. It has to be one that is difficult for your team to take without you, and it has to be important. The reason for this is that you can probably get a lot more by doing your own thing than by joining your team, through farming and split pushing. It's probably not worth sacrificing your farm just so your team feels confident enough to push a tier 1 tower on the other side of the map.
 
 Second, when the most effective thing you can do for your team is to take (and hopefully win) a fight. This sounds a bit tautological, but it's important to note that you want to fight when it's your best (and probably only) course of action. This will typically happen late game, when your opponent is pushing your rax. If you find yourself in this situation and realize that you can't split push (perhaps because someone is defending), your best course of action might just be to fight with your team.
 
-### How to fight
+### How To Fight
 
 In team fights, especially on even farm, Anti-Mage is extremely vulnerable when his blink is on cooldown. However, blink is also a good tool for getting into the fight. For these reasons, you want to do your best to ensure that you never blink into a compromising situation.
 
 Usually, this means that you want to go for overextended or isolated heroes. Supports are also usually good targets after a fight breaks out. Likewise, this means that you don't want to initiate a fight. If you blink in, your opponents have 5 seconds and all of their spells to kill you. You can play a bit more aggressively if you have a BKB or an aegis, but it's still generally not a good idea for you to be the actual initiator.
 
-Slardar initiated on Dire, but this means he's isolated from his team and therefore an easy kill.
+{% include image.html
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-kill-slardar.jpeg"
+  caption="Slardar initiated on Dire, but this means he's isolated from his team and therefore an easy kill." %}
 
 ### Techniques
 
