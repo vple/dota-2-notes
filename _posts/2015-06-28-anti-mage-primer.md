@@ -43,7 +43,7 @@ We'll start with one of the most fundamental Anti-Mage skills: farming with your
 An important part of maximizing your farm depends on your map movement. As with any carry, this usually means farming areas of the map that your other core heroes are not farming so as to maximize your team's farm. Anti-Mage is no exception. However, thanks to his low cooldown blink, Anti-Mage is often able to farm more dangerous areas of the map and leave safer areas of the map for his allies. This also ties into split-pushing, but we'll cover that more later.
 
 {% include image.html
-  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-farm-dangerous.png"
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-farm-dangerous.jpeg"
   caption="EG.Fear farming dangerous areas." %}
 
 In addition to farming different areas of the map, it's important to know where creeps are available. Anti-Mage is such a fast farmer that he can easily clear most or all of a jungle's creeps each minute (depending on his items). As you farm your current set of creeps, think about which creeps you will farm next. Will you go further down the lane, or will you move to a different camp in the jungle? Remember also that new jungle camps will respawn each minute, so you will sometimes be able to trace your path back out of the jungle and back to a lane.
@@ -154,7 +154,7 @@ Killing the defender is an extremely powerful technique if done successfully. Un
 Relatedly, be aware that Anti-Mage is extremely strong at killing isolated targets once you have your manta style. If you're ahead on farm (which you ideally would be), it becomes even easier. The usual way of getting this kill is to blink on top of your target and manta, allowing you and your illusions to hit (and mana burn) your target. If you can't kill them with just right clicks, a mana void usually finishes the job.
 
 {% include image.html
-  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-kill-defender.png"
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-kill-defender.jpeg"
   caption="A close but unsuccessful attempt to kill the defending Lina. It forces several TPs as well." %}
 
 ### Setting Up Split Push
@@ -166,7 +166,7 @@ Oftentimes, it can be useful when farming to push a lane almost all the way to t
 If you can, try to get your team to have multiple lanes pushed at all times. This forces your opponent to respond to one of these lanes, giving you more information as to whether or not it is safe for you to split push.
 
 {% include image.html
-  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-illusion-push.png"
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-illusion-push.jpeg"
   caption="Forcing a response with just Anti-Mage illusions." %}
 
 ## Itemization
@@ -236,7 +236,7 @@ Now, let's first consider starting items. The most important notion for Anti-Mag
 * Ring of protection, stout shield, one set of regen, and an iron branch.
 
 {% include image.html
-  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-starting-items.png"
+  src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-starting-items.jpeg"
   caption="EG.Fear's starting items." %}
 
 With the exception of the ring of protection, you can buy any of the remaining early game items at the side shop: quelling blade, boots, ring of health, tread components, sage's mask. Tailor the ordering of these items to what you need. If you need to contest last hits better, go for the quelling blade. If you're taking a lot of harass but unable to bully out your opponent, go for the ring of health. If you can mana break harass effectively, get boots.
