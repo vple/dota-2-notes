@@ -71,34 +71,23 @@ $nav-link-color:  $medium-red;
   }
 }
 
-/*
-@media screen and (max-width: $content-width) {
+@media screen and (max-width: $phone-width) {
   .main-header {
-    height: 60px;
-  }
-}
-
-@media screen and (max-width: 380px) {
-  .main-header {
-    height: auto;
+    width: 100%;
+    position: fixed;
   }
 
-  .main-header-nav-link {
-    line-height: 40px;
-    margin-right: 0.5em;
-    vertical-align: middle;
-    width: auto;
+  .main-content {
+    padding-top: 4em;
   }
 
   .homepage-link {
-    height: 40px;
-    margin-bottom: 0.5em;
-    margin-top: 0.5em;
-    width: 60px;
+    padding-right: 1em;
+  }
 
-    &:before {
-      background-size: 50px 27px;
-    }
+  .main-header-nav-link {
+    width: auto;
+    padding-right: 0.5em;
+    font-weight: normal;
   }
 }
-*/
