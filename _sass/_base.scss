@@ -32,6 +32,17 @@ a {
   }
 }
 
+.clearfix {
+  &:after {
+    clear: both;
+    content: ".";
+    visibility: hidden;
+    height: 0;
+    font-size: 0;
+    display: block;
+  }
+}
+
 @media screen and (max-width: $content-width) {
   .main-content {
     margin: 0;
