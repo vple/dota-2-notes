@@ -31,3 +31,10 @@ a {
     text-decoration: underline;
   }
 }
+
+@media screen and (max-width: $content-width) {
+  .main-content {
+    margin: 0;
+    padding: 1em;
+  }
+}

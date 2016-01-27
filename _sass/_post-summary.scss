@@ -38,3 +38,14 @@
   }
 }
 
+@media screen and (max-width: $small-content-width) {
+  .post-summary {
+    .hero-img {
+      float: none;
+      width: 100%;
+      max-width: inherit;
+      margin-left: 0;
+      margin-bottom: 1em;
+    }
+  }
+}

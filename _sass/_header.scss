@@ -55,16 +55,9 @@ $nav-link-color:  $medium-red;
   }
 }
 
-/*
 @media screen and (max-width: $content-width) {
-  .main-header {
-    height: 60px;
-  }
-
-  .main-header-nav-link {
-    font-size: 1em;
-    line-height: 60px;
-    width: 80px;
+  .homepage-link {
+    padding-right: 30px;
   }
 
   .main-header-nav {
@@ -73,14 +66,15 @@ $nav-link-color:  $medium-red;
     width: 100%;
   }
 
-  .homepage-link {
-    height: 60px;
-    padding-right: 0;
+  .main-header-nav-link {
     width: 80px;
+  }
+}
 
-    &:before {
-      background-size: 70px 38px;
-    }
+/*
+@media screen and (max-width: $content-width) {
+  .main-header {
+    height: 60px;
   }
 }
 
