@@ -36,8 +36,7 @@ for me.
 
 Over three years later, I've played
 <a href="http://www.dotabuff.com/players/96979705" target="_blank">
-  quite a bit of Dota 2
-</a>
+  quite a bit of Dota 2</a>
 and worked my way up from being a complete noob. I wish I could
 share my starting MMR, but when I first started the public MMR system didn't
 even exist. The thing with the biggest influence on my improvement was
