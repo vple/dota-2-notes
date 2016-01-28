@@ -6,7 +6,6 @@ navigation: articles
 hero-image: http://cdn.dota2notes.com/images/valve/heroes/tinker_full.png
 blurb: >
   An introduction to playing Tinker: farming, laning, and itemizing.
-
 ---
 
 As Tinker is becoming more popular, I thought I’d go over some key points about how to play him. We’ll talk about farming, laning, and itemization. I’ll assume that you already have a general familiarity with Tinker and his playstyle.
