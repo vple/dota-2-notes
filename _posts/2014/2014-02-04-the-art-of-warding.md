@@ -3,9 +3,9 @@ layout: article
 title: The Art of Warding
 category: articles
 navigation: articles
-hero-image:
+hero-image: http://cdn.dota2notes.com/images/screenshots/2014/02/04/aow-sentry-placement.jpeg
 blurb: >
-
+  Learn all the techniques and nuances of effective warding and counter warding.
 ---
 
 ## Introduction
