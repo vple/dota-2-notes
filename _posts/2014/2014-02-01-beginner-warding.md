@@ -3,7 +3,7 @@ layout: article
 title: Beginner Warding
 category: articles
 navigation: articles
-hero-image:
+hero-image: http://cdn.dota2notes.com/images/screenshots/2014/02/01/bw-bot-rune-1.jpeg
 blurb: >
   Learn the basics of why and where to ward.
 ---
