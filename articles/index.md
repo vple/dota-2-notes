@@ -2,6 +2,7 @@
 layout: page
 title: Articles
 navigation: articles
+show_header: true
 ---
 
 <ul class="post-summaries-container">
