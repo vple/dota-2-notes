@@ -7,7 +7,7 @@ show_header: true
 
 Hi! Dota 2 Notes is my small side project to create high quality, high level
 Dota 2 guides and resources. I've learned a lot about Dota 2 from others, and
-now I want to help you become a better Dota 2 player.
+now I want to pay it forward to help you become a better Dota 2 player.
 
 I believe there aren't very many guides that teach you how to get good at Dota
 2. There are a lot of guides that show you the ropes and a lot of hero-
