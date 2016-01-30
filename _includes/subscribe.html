@@ -1,0 +1,109 @@
+<div id="mc_embed_signup">
+  <form action="//dota2notes.us12.list-manage.com/subscribe/post-json?u=2e9918aa1cd5f573102d8eec1&amp;id=be5b624a7d"
+    method="post"
+    id="mc-embedded-subscribe-form"
+    name="mc-embedded-subscribe-form"
+    class="validate"
+    target="_blank"
+    novalidate="true">
+
+    <div class="mc-field-group">
+      <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Email me!">
+      <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+    </div>
+
+    <div id="mce-responses" class="clear">
+      <div class="response" id="mce-error-response" style="display:none"></div>
+      <div class="response" id="mce-success-response" style="display:none"></div>
+    </div>
+
+    <div id="subscribe-result" style="display: none;"></div>
+
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2e9918aa1cd5f573102d8eec1_be5b624a7d" tabindex="-1" value=""></div>
+  </form>
+</div>
+
+<script type="text/javascript">
+  // https://github.com/rydama/mailchimp-ajax-signup/blob/master/ajax-subscribe.html
+  $(document).ready(function() {
+    // Validate the email address in the form
+    var isValidEmail = function($form) {
+      // If email is empty, show error message.
+      // contains just one @
+      var email = $form.find("input[type='email']").val();
+      if (!email || !email.length) {
+          return false;
+      } else if (email.indexOf("@") == -1) {
+          return false;
+      }
+      return true;
+    };
+
+    // Submit the form with an ajax/jsonp request.
+    // Based on http://stackoverflow.com/a/15120409/215821
+    var submitSubscribeForm = function($form, $resultElement) {
+      $.ajax({
+        type: "GET",
+        url: $form.attr("action"),
+        data: $form.serialize(),
+        cache: false,
+        dataType: "jsonp",
+        jsonp: "c", // trigger MailChimp to return a JSONP response
+        contentType: "application/json; charset=utf-8",
+        error: function(error){
+          // According to jquery docs, this is never called for cross-domain JSONP requests
+        },
+        success: function(data){
+          if (data.result != "success") {
+            $resultElement.addClass("error");
+            var message = "Something went wrong! Please try again later.";
+            try {
+              var parts = data.msg.split(' - ', 2);
+              if (parts[1] == undefined){
+                message = data.msg;
+              } else {
+                i = parseInt(parts[0]);
+                if (i.toString() == parts[0]){
+                  message = parts[1];
+                } else {
+                  message = data.msg;
+                }
+              }
+            } catch(e){
+              index = -1;
+              message = data.msg;
+            }
+
+            if (data.msg && data.msg.indexOf("already subscribed") >= 0) {
+              message = "You're already subscribed!";
+              $resultElement.css("color", "black");
+            }
+            $resultElement.html(message);
+          } else {
+            $resultElement.removeClass("error");
+            $resultElement.html("Sweet!<br>Please check your inbox for a confirmation email.");
+          }
+        }
+      });
+    };
+
+    var ajaxMailChimpForm = function($form, $resultElement) {
+      $form.submit(function(e) {
+        e.preventDefault();
+        $resultElement.show();
+        if (!isValidEmail($form)) {
+          $resultElement.addClass("error");
+          var error =  "A valid email address must be provided.";
+          $resultElement.text(error);
+        } else {
+          $resultElement.removeClass("error");
+          $resultElement.text("Subscribing...");
+          submitSubscribeForm($form, $resultElement);
+        }
+      });
+    };
+
+    ajaxMailChimpForm($("#mc-embedded-subscribe-form"), $("#subscribe-result"));
+  });
+</script>

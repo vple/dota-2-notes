@@ -5,22 +5,26 @@ navigation: about
 show_header: true
 ---
 
-Hi! Dota 2 Notes is my small side project to create high quality, high level
-Dota 2 guides and resources. I've learned a lot about Dota 2 from others, and
-now I want to pay it forward to help you become a better Dota 2 player.
+Hi! I want to help you become a better Dota 2 player.
 
-I believe there aren't very many guides that teach you how to get good at Dota
-2. There are a lot of guides that show you the ropes and a lot of hero-
-specific guides, which is great. But not very many guides really teach you how
-to think about and understand the game.
+When I started playing Dota 2, I found it really hard to find really good guides. I really wanted to learn everything I could to get better, but most guides out there didn't have the depth I was hoping for.
 
-I want to make guides and resources that teach you not only what to do, but
-also how to make better decisions. Hopefully, everyone will be able to find
-something useful here, regardless of how much or how little experience you
-have playing Dota 2.
+Now that I've improved as a player, I want to give back. And I want to do that by sharing the high-level knowledge that I wish I could have found when I first got started.
 
+Here at Dota 2 Notes, I'll be doing my best to write high-quality, high-level guides and resources. They'll include things like hero guides, mechanics and fundamentals, and various other tips and techniques. Most of all, I hope that I'll be able to share how to think and approach the game---allowing you to improve your in-game decision making.
+
+{% comment %}
 Currently, I don't write new articles very frequently. To help make up for it,
 I put a lot of effort into making them fairly comprehensive.
+{% endcomment %}
+
+<div class="subscription-box">
+  <div class="info">
+    Become a better player.
+    <span>I'll email you when I publish new Dota 2 articles.</span>
+  </div>
+  {% include subscribe.html %}
+</div>
 
 ## My Journey
 
@@ -43,4 +47,3 @@ even exist. The thing with the biggest influence on my improvement was
 learning from other players. I've met several friends through Dota 2, many of
 whom are way better than me. By learning from them, reflecting on my mistakes,
 and practicing, I've improved to ~4.7K solo MMR.
-

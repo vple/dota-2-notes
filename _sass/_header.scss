@@ -15,6 +15,7 @@ $nav-link-color:  $medium-red;
   font-size: 1.3em;
   color: $nav-link-color;
   font-weight: bold;
+  line-height: 47px;  // for some reason this needs to be smaller than the header height
 }
 
 .main-header-nav {
@@ -75,6 +76,7 @@ $nav-link-color:  $medium-red;
   .main-header {
     width: 100%;
     position: fixed;
+    z-index: 999;
   }
 
   .main-content {
