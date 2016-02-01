@@ -1,0 +1,89 @@
+.scrollspy {
+  a {
+    color: #767676;
+
+    &:hover {
+      color: $nav-link-hover-color;
+    }
+  }
+
+  %inactive {
+    display: none;
+  }
+  .nav .nav { @extend %inactive; }
+  .nav .nav .nav { @extend %inactive; }
+
+  %active-list {
+    display: block;
+  }
+
+  .nav > .active > ul { @extend %active-list; }
+  .nav > .active > .nav > .active > ul { @extend %active-list; }
+
+  // links
+
+  %active-link {
+    color: $nav-link-color; //$nav-link-hover-color;
+    font-weight: bold;
+  }
+
+  .nav a:hover {
+    border-left: 2px solid $nav-link-hover-color;
+    background-color: transparent;
+  }
+
+  .nav .active > a {
+    border-left: 2px solid $nav-link-color;
+
+    &:hover {
+      color: $nav-link-hover-color;
+      border-color: $nav-link-hover-color;
+    }
+  }
+
+  .level-1 {
+    a {
+      padding-left: 15px;
+
+      &:hover {
+        padding-left: 13px;
+      }
+    }
+
+    .active > a {
+      @extend %active-link;
+      padding-left: 13px;
+    }
+  }
+
+  .level-2 {
+    a {
+      padding-left: 25px;
+
+      &:hover {
+        padding-left: 23px;
+      }
+    }
+
+    .active > a {
+      @extend %active-link;
+      padding-left: 23px;
+    }
+  }
+
+  .level-3 {
+    a {
+      padding-left: 35px;
+
+      &:hover {
+        padding-left: 33px;
+      }
+    }
+
+    .active > a {
+      @extend %active-link;
+      padding-left: 33px;
+    }
+  }
+
+}

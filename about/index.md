@@ -20,8 +20,8 @@ I put a lot of effort into making them fairly comprehensive.
 
 <div class="subscription-box">
   <div class="info">
-    Become a better player.
-    <span>I'll email you when I publish new Dota 2 articles.</span>
+    <span class="heading">Become a better player.</span>
+    <span class="detail">I'll email you when I publish new Dota 2 articles.</span>
   </div>
   {% include subscribe.html %}
 </div>

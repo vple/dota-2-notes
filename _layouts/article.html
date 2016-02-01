@@ -1,23 +1,31 @@
 ---
 layout: default
 ---
+<div class="container-fluid">
+  <div class="row">
+    <nav class="js-toc scrollspy col-md-3 hidden-xs hidden-sm" data-spy="affix"></nav>
+    <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+      <article class="post">
+        <header class="post-header">
+          <h1 class="post-title">{{ page.title }}</h1>
+        </header>
 
-<article class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
+        <div class="post-content">
+          {{ content }}
+        </div>
+      </article>
+    </div>
   </div>
-</article>
 
-<br><hr><br>
-
-<div class="subscription-box">
-  <div class="info">
-    Become a better player.
-    <span>If you liked this article, I can email you when I publish new articles.</span>
+  <div class="row">
+    <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+      <div class="subscription-box ">
+        <div class="info">
+          <span class="heading">Become a better player.</span>
+          <span class="detail">If you liked this article, I can email you when I publish new articles.</span>
+        </div>
+        {% include subscribe.html %}
+      </div>
+    </div>
   </div>
-  {% include subscribe.html %}
 </div>

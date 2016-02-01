@@ -2,94 +2,16 @@ $header-height:   50px;
 $nav-link-color:  $medium-red;
 
 .main-header {
-  background-color: $header-background-color;
-  border-bottom: 3px solid $line-color;
-  height: $header-height;
-}
-
-.homepage-link {
-  display:  inline-block;
-  height:   $header-height;
-  position: relative;
-  padding-right: 80px;
-  font-size: 1.3em;
-  color: $nav-link-color;
-  font-weight: bold;
-  line-height: 47px;  // for some reason this needs to be smaller than the header height
-}
-
-.main-header-nav {
-  box-sizing: border-box;
-  margin: 0 auto;
-  max-width: $content-width;
-  padding: 0 3em;
-}
-
-.main-header-nav-links {
-  display: inline-block;
-  height: 100%;
-  font-weight: bolder;
-
-  a:hover {
-    text-decoration: none;
+  .navbar-brand {
+    font-weight: bold;
   }
-}
 
-.main-header-nav-link {
-  color: $dark-gray;
-  display: inline-block;
-  font-size: 1.1em;
-  height: 100%;
-  width: 110px;
-  line-height: $header-height;
-  text-align: center;
-  transition: background-color 0.2s;
+  .navbar-nav > li > a {
+    font-weight: bolder;
+  }
 
-  &.selected {
+  // Bootstrap override
+  .navbar-nav > li.selected > a {
     color: $nav-link-color;
-  }
-
-  &:hover {
-    background-color: $nav-link-background-hover-color;
-    color: $nav-link-hover-color;
-    border-bottom: 3px solid $nav-link-hover-color;
-  }
-}
-
-@media screen and (max-width: $content-width) {
-  .homepage-link {
-    padding-right: 30px;
-  }
-
-  .main-header-nav {
-    box-sizing: border-box;
-    padding: 0 1em;
-    width: 100%;
-  }
-
-  .main-header-nav-link {
-    width: 80px;
-  }
-}
-
-@media screen and (max-width: $phone-width) {
-  .main-header {
-    width: 100%;
-    position: fixed;
-    z-index: 999;
-  }
-
-  .main-content {
-    padding-top: 4em;
-  }
-
-  .homepage-link {
-    padding-right: 1em;
-  }
-
-  .main-header-nav-link {
-    width: auto;
-    padding: 0 0.5em;
-    font-weight: normal;
   }
 }

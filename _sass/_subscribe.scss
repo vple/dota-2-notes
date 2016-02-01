@@ -5,13 +5,16 @@
 
   .info {
     margin-bottom: 0.5em;
-    font-size: 1.5em;
-    line-height:1.5em;
 
     span {
       display: block;
-      font-size: 1rem;
-      line-height: 1.4rem;
+    }
+
+    .heading {
+      font-size: 1.5em;
+    }
+
+    .detail {
       opacity: 0.6;
     }
   }

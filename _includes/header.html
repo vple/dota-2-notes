@@ -1,19 +1,24 @@
 <header class="main-header">
-  <nav class="main-header-nav">
+  <nav class="navbar navbar-default navbar-static-top ">
+    <div class="container-fluid">
 
-    <a href="/"><p class="homepage-link">Dota 2 Notes</p></a>
+      <div class="row">
+        <div class="col-md-3">
+          <a href="/" class="navbar-brand">Dota 2 Notes</a>
+        </div>
 
-    <ul class="main-header-nav-links">
+        <div class="col-md-9">
+          <ul class="nav navbar-nav">
+            <li {% if page.navigation == "articles" %}class="selected"{%endif%}>
+              <a href="/articles/">Articles</a>
+            </li>
+            <li {% if page.navigation == "about" %}class="selected"{%endif%}>
+              <a href="/about/">About</a>
+            </li>
+          </ul>
+        </div>
+      </div>
 
-      <a href="/articles/" >
-        <li class="main-header-nav-link {% if page.navigation == "articles" %}selected{% endif %}">Articles</li>
-      </a>
-
-      <a href="/about/">
-        <li class="main-header-nav-link {% if page.navigation == "about" %}selected{% endif %}">About</li>
-      </a>
-
-    </ul>
-    
+    </div>
   </nav>
 </header>
