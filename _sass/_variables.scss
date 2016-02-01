@@ -74,10 +74,17 @@ $phone-width: 380px;
   // Header sizes
   h1 { font-size: 1.7em; font-weight: bolder; }
   h2 { font-size: 1.4em; font-weight: bolder; }
+  h3 { font-size: 1.2em; font-weight: bolder; }
+  h4 { font-size: 1em; font-weight: bolder; }
+  h5 { font-size: 1em; font-style: italic; }
+  h6 { font-size: 1em; }
+
+  h1,
+  h2,
   h3,
-  h4,
+  h4 { color: $heading-color; }
   h5,
-  h6 { font-size: 1.2em; }
+  h6 { color: $body-text-color; }
 
   h1,
   h2,
@@ -85,7 +92,6 @@ $phone-width: 380px;
   h4,
   h5,
   h6 {
-    color: $heading-color;
     line-height: 1.5em;
     margin: $body-font-size 0;
   }
