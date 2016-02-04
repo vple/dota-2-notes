@@ -26,7 +26,7 @@ I know---to some, that sounds tedious or boring. Or it might sound like a waste 
 
 In a nutshell, sandbox mode gives you more confidence and experience to execute things in real games. Sandbox mode also takes less time than real games---you could spend 5 minutes before your first game just doing last hit practice.
 
-## Setting Up A Game
+# Setting Up A Game
 
 Setting up a sandbox game is really easy.
 
@@ -44,7 +44,7 @@ From here you can pick which team you want to be on. More importantly, you can s
 
 I recommend enabling cheats. If you want to other heroes to practice spells and items on, I recommend filling empty slots with **passive** bots (or using cheats to create heroes in game).
 
-### Cheats
+## Cheats
 
 You can use cheats to help configure the game in a way that makes it easier to practice. To use a cheat, simply type the cheat into chat. I've included some cheats that I use frequently, but you can find other cheats <a href="http://dota2.gamepedia.com/Cheats" target="_blank">here</a>.
 
@@ -69,7 +69,7 @@ Turns off wtf mode
 * `-startgame`<br>
 Starts the game (moves the clock forward to 0:00).
 
-## How To Practice
+# How To Practice
 
 **To get the most out of your practice, you need to identify what it is that you actually want to learn.** Be as specific as possible.
 
@@ -81,7 +81,7 @@ When I was learning to last hit, I had trouble timing my last hit by only lookin
 
 Similarly, when learning to block pull camps, it seemed really hard to remember exact camp boundaries. By observing, I realized that I could use geographic landmarks (bushes, trees, flowers, etc.) to remember where a camp's spawn box is.
 
-## Practice Ideas
+# Practice Ideas
 
 There are many things you can practice in sandbox mode. If you're looking for ideas, here are some of the things I've practiced.
 
@@ -94,7 +94,7 @@ There are many things you can practice in sandbox mode. If you're looking for id
 * Farming practice.
 * Body blocking creeps.
 
-## What Not To Use Sandbox Mode For
+# What Not To Use Sandbox Mode For
 
 Although sandbox mode is very useful, there's one obvious place where it isn't useful: **sandbox mode doesn't help you improve in situations that involve another player's decision making.**
 

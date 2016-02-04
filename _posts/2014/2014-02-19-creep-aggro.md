@@ -10,7 +10,7 @@ blurb: >
 
 At all levels of play, you can improve your laning by understanding and utilizing creep aggro to your advantage. In this article, we’ll first go over the mechanics and effects of drawing creep aggro. Then, we’ll take a look at a few ways to utilize this knowledge.
 
-## What Is Creep Aggro?
+# Aggro Mechanics
 
 Creep aggro is where your opponent’s lane creeps change from their current attack target to you. In particular, we’re interested in why they stop attacking your lane creeps and instead start chasing after you.
 
@@ -22,7 +22,7 @@ This is worth repeating: you don’t have to launch an attack to draw creep aggr
 
 The aggro check has a cooldown of 2 seconds; you can’t draw creep aggro if you recently triggered an aggro check. So, immediately after you trigger an aggro check, you can attack the opposing hero from anywhere without drawing creep aggro.
 
-### Example
+## Example
 
 In this image, I’m issuing an attack command (a right click) on the enemy Warlock. The green circle around me (Lina) is set to 500 units---the creep aggro radius.
 
@@ -40,7 +40,7 @@ In this example, I didn’t actually launch an attack at Warlock. I right-clicke
 
 Because this is a custom lobby, I’m able to display a range around my hero. You can’t do this is a normal pub game. Instead, you need to learn to eyeball the appropriate distance. 500 units is a bit smaller than most ranged heroes’ attack range.
 
-### Effects
+## Effects
 
 In order to fully utilize creep aggro to your advantage, you need to understand what happens as a result of drawing creep aggro.
 The most obvious thing that occurs is that your opponent’s creeps try to attack you. Ranged creeps often only need to turn in order to be able to hit you. Melee creeps, however, will chase you until they can hit you or lose their aggro on you. When they lose aggro on you, they’ll go and attack their new target---probably the nearest lane creep. This is the entire chain of events that occurs when you draw creep aggro.
@@ -53,7 +53,7 @@ Second, your opponent’s creeps temporarily stopped attacking your creeps. Howe
 
 In addition to the conditions that trigger creep aggro, we’ll be considering these two effects when determining how we can utilize creep aggro to our advantage.
 
-## Harassing
+# Harassing
 
 Harassing occurs all the time during the laning phase; players can and should aim to squeeze in extra right clicks against the opposing heroes.
 
@@ -67,7 +67,7 @@ Now, what happens after our attack is in the air? If we let our hero go for a se
 
 Instead, stop attacking after you launch your first attack. Then, back away. Once you get far enough (over 500 units from an enemy creep), you can turn around and do the entire process again.
 
-## Farming Safely
+# Farming Safely
 
 In some situations, you might die or take heavy harassment just by going in for a last hit. This typically occurs for melee heroes, in particular when they’re solo offlane or against a stronger lane. Although it’s good to gain experience, we’d like to get some farm out of our lane as well. How can we do this?
 
@@ -104,11 +104,11 @@ Creep repositioning is a very simple and effective technique. However, here are 
 * Likewise, some lanes can still initiate on you after you’ve repositioned the creeps.
 * It’s sometimes okay to auto-attack creeps after you reposition them. The reasoning behind this is that you want to get in some last hits before the enemy heroes come up to harass you.
 
-## Additional Uses
+# Additional Uses
 
 As you’ve seen, it’s simple and effective to utilize creep aggro. We’ll conclude with two more ways you can use creep aggro to your advantage.
 
-### Creep Peeling
+## Creep Peeling
 
 You can “peel” an individual enemy creep away by drawing its aggro while not drawing the other creeps’ aggro. The idea behind this is to peel away a single creep that you want to last hit. By repositioning that creep, you make it harder for your opponent to deny it and you make it easier for you to get the last hit. Moreover, you avoid disturbing the remainder of the creeps. This can be particularly useful in mid.
 
@@ -116,6 +116,6 @@ You can “peel” an individual enemy creep away by drawing its aggro while not
   src="http://cdn.dota2notes.com/images/screenshots/2014/02/19/ca-creep-peel.jpeg"
   caption="Peeling away a single creep." %}
 
-### Harassing
+## Harassing
 
 We already took a look at how to harass without drawing creep aggro. However, you can utilize creep aggro in another way. If your opponent is standing near your creeps, you can harass them. If they try to harass you back, they’ll draw your creeps’ aggro onto themselves.

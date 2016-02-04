@@ -12,19 +12,19 @@ Let’s take a look at Disruptor. This support hero struggles without a handful 
 
 If you’re not already familiar with Disruptor’s spells, you can look at them <a href="http://dota2.gamepedia.com/Disruptor" target="_blank">here</a>.
 
-## Basic Spell Usage
+# Basic Spell Usage
 
 We’ll start with the straightforward use of Disruptor’s spells. In the next sections, we’ll cover combos and more advanced usages.
 
 The skill build I would strongly recommend is to have one point in each skill by level 3. Then, take Glimpse and your ultimate for levels 4--7. After that is up to you.
 
-### Thunder Strike
+## Thunder Strike
 
 This spell is a pretty powerful nuke; its 160 AoE damage (before reduction) at level 1 makes it quite powerful as a harassment tool. It’s a bit odd as far as nukes go, as it deals its damage in four instances over a six second period.
 
 The second main part of this spell is that it provides vision of its target during the duration of the spell. This means that if you want to ensure that you have vision of a specific opponent, cast Thunder Strike on them! This is especially important for ganks as well as for Thunder Strike + Glimpse combos.
 
-### Glimpse
+## Glimpse
 
 Glimpse is Disruptor’s most powerful (non-ultimate) spell. Used properly, this spell alone can devastate the opposing team. However, it’s a bit tricky to get the hang of; you’ll need to start thinking in terms of where your target was four seconds ago. Alternatively, you can think of Glimpse as a way to bring your target back to where they are now after you cast Glimpse on them four seconds into the future.
 
@@ -36,7 +36,7 @@ We’ll go into Glimpse in much greater detail later on, but three of the most c
 
 Disruptor’s skill build is fairly flexible, but Glimpse should always be maxed first; low levels of Glimpse aren’t that great and the spell improves dramatically with each level. In particular, levelling this skill gives additional cast range and reduced cooldown. At level four, Glimpse’s 18 second cooldown allows it to be used multiple times in a fight. In addition, its 1800 cast range allows you to pull back opponents even after they’ve blinked away!
 
-### Kinetic Field
+## Kinetic Field
 
 A relatively simple spell, Kinetic Field forms a barrier that your opponents cannot cross (in or out). However, Kinetic Field doesn’t stop your opponents from using spells or items to pass through the field (be aware that you cannot escape the field with force staff).
 
@@ -44,7 +44,7 @@ The most straightforward use of Kinetic Field is to trap someone inside of it. W
 
 You can also use Kinetic Field to help escaping allies. Just use it to block the retreat paths that your allies are taking.
 
-### Static Storm
+## Static Storm
 
 Static Storm is yet another versatile spell in Disruptor’s toolkit. Since it provides an AoE silence with a pretty short cooldown, it can be used to great effect in both team fights and ganks.
 
@@ -52,11 +52,11 @@ Usage of Static Storm is easy to understand---drop it on the target(s) you want 
 
 It’s very easy to cast Static Storm, but be judicious with your usage! Static Storm can single-handedly win a fight, but a whiffed one can make your fight much harder than it could have been. Eventually, you’ll find yourself being able to make snap calls as to when and where you should or shouldn’t drop a Static Storm.
 
-## Advanced Spell Usage and Combos
+# Advanced Spell Usage and Combos
 
 Alright, let’s get into the fun stuff. Disruptor’s spells are even more powerful than they might seem on the surface; proper usage nearly guarantees pickoffs and kills in team fights.
 
-### Advanced Mechanics
+## Advanced Mechanics
 
 We’ll first go over the more advanced mechanics of each spell.
 
@@ -70,7 +70,7 @@ We’ll first go over the more advanced mechanics of each spell.
 * Like Disruptor’s other spells, Kinetic Field also provides vision!
 * Static Storm’s Aghanim’s upgrade increases its duration, damage, and allows it to silence items. In particular, if you catch and keep someone in your upgraded Static Storm, they can’t cast BKB. However, they are free to use their items if they get their BKB off before your Static Storm.
 
-### Combos
+## Combos
 
 Disruptor’s spells have incredible synergy. Note that these combos can be chained into one another.
 
@@ -79,7 +79,7 @@ Disruptor’s spells have incredible synergy. Note that these combos can be chai
 * Kinetic Field + Static Storm. This combo is a bit harder to execute (because Kinetic Field has a formation time) but is very powerful when done properly. Most heroes caught in this combo will have a tough time doing anything unless they have a BKB.
 * Glimpse &#8594; Static Storm. This combo (along with possible a Kinetic Field) is the variant on Glimpse &#8594; Kinetic Field for heroes with an escape spell, such as Storm Spirit, Anti-Mage, Queen of Pain, and Riki. It’s important to get the Static Storm down before the Glimpse finishes, otherwise your target might escape!
 
-### Additional Usage Tips
+## Additional Usage Tips
 
 * In case I haven’t mentioned it enough, Glimpse is a very strong tool for bringing back retreating opponents. There are a variety of reasons your opponent might be running away from you, but there are two fairly common ones.
   1. Your opponent is running from a gank or team fight. We’ve covered this one a bit already.

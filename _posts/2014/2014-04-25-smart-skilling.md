@@ -18,7 +18,7 @@ Be aware: if you are going to save your skill points, you should be comfortable 
 
 The most common time that this technique is useful is for your early skill points. This is often because your laning matchup will be the most important factor in determining where to spend your skill points. You’ll usually want to get skills that best help you to win your lane.
 
-## Examples
+# Examples
 
 To reiterate, you may want to save your skill points to level up skill when you need them. That’s really all there is to say, but I’ll include a few examples to help flesh out the idea.
 

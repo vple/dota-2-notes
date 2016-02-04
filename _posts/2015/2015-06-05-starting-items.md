@@ -14,15 +14,15 @@ Do note that not all of these concepts will apply to you every game. Many of the
 
 It’s also important to note that these concepts can also depend on your skill level. A more skilled player might be able to get away with buying less regen because they are better at dodging spells or manipulating creep waves. A less skilled player might start with a quelling blade to compensate for being unable to consistently last hit. So, consider your own skill level when making itemization decisions (and remember to reevaluate yourself every once in a while as you improve).
 
-## General Concepts
+# General Concepts
 
-### Predict Your Lane
+## Predict Your Lane
 
 One of the most important aspects to picking good starting items is knowing who your lane opponents will be. During the picking phase and before the game starts, start thinking about who you might expect to lane against. Communicate with your team so that you which of your teammates, if any, will be laning with you.
 
 Knowing who you’ll be up against lets you envision how the laning phase might unfold. If you expect to take a lot of gradual harass damage, such as from right clicks, you might prefer to have tangos over salves. If your opponent spams a lot of spells, such as Zeus, Batrider, or Bristleback, you want to consider picking up a magic stick at the start or very early into the game.
 
-### Consider Item Build Ups
+## Consider Item Build Ups
 
 Oftentimes you’ll have a general idea of the early game items you want to build on your hero. Maybe you expect to build a magic wand, a ring of basilius, or an urn. **When appropriate, tailor your starting items according to the items you expect to build.** Also factor in which items you can buy or complete at the side shop.
 
@@ -34,7 +34,7 @@ You can also tailor your starting items based on what you expect not to build. Y
   src="http://cdn.dota2notes.com/images/screenshots/2015/06/05/si-axe.jpeg"
   caption="Instead of starting with two stout shields on Axe, you could instead start with a stout shield and a ring of protection, which you’d later build into tranquil boots." %}
 
-### Prioritize Items
+## Prioritize Items
 
 Adjust your early game items to what’s happening in your lane. If you’re playing Anti-Mage and taking a lot of harass, you might want to get a ring of health as soon as possible. However, if you’re against a mana dependent hero, you might want to get boots to better harass and drain their mana.
 
@@ -45,13 +45,13 @@ Generally, there are three things to balance when you are deciding how to priori
 * Get enough damage to be able to farm effectively in your lane.
 
 
-### Buy A Courier
+## Buy A Courier
 
 Hopefully this is obvious, but ensuring that your team has a courier is one of the most important things you need to do at the start of every game. This task is typically given to a support so that the core heroes can get their items more quickly. However, if you find your team lacking a courier, it’s almost certainly better to buy one yourself rather than go through the laning phase without a courier.
 
-## Damage and Regen
+# Damage and Regen
 
-### Anticipating Damage
+## Anticipating Damage
 
 The first idea here is simple: you’re going to take damage in lane. Unless you have an immensely favorable matchup or play extremely passively and defensively, this is inevitable. Start trying to anticipate the damage you’ll take.
 
@@ -63,7 +63,7 @@ There are a lot of ways for you to take damage:
 
 * You might expect to tank creeps or towers. Perhaps you have an aggressive lane that has a relatively easy time getting kills, even under towers. Or, you might need to tank some creep hits in order to control equilibrium or just to get some last hits under your tower.
 
-### Mitigating Damage
+## Mitigating Damage
 
 The next idea is also pretty simple: you don’t want to take damage! The two main ways that you can mitigate damage are to either heal up after taking damage or to reduce/dodge incoming sources of damage.
 
@@ -81,7 +81,7 @@ In terms of itemizing, there are a few takeaways:
 
 * **Your sources of regen are more effective if you also have damage block or armor.** This is because the amount of effective HP that your regen heals you for increases, even though the amount of actual HP that you are healed stays the same.
 
-### Trading Regen
+## Trading Regen
 
 We’ve established that you and your lane opponent are going to both damage one another. You both also have ways to cope with that damage, of which one is to heal up with regen. So, what happens when someone runs out of regen?
 
@@ -95,7 +95,7 @@ There are a variety of factors that affect who will run out of regen first. They
 
 Also note that in this case, regen doesn’t always mean HP regen. Some hereos rely on a spell to help them escape from dangerous situations. If your opponent doesn’t have enough mana to cast that spell, they might be in the same position as if they had no HP regen. Examples of these heroes include Faceless Void (Time Walk), Puck (Illusory Orb), and Juggernaut (Blade Fury).
 
-### Mana Management
+## Mana Management
 
 For some heroes, like Huskar, mana doesn’t matter very much during the early game. Other heroes, like Dark Seer, turn into glorified creeps if they have no mana. It’s important to ensure that your hero has enough mana to be useful. There are many ways to obtain mana during the early game, other than returning to fountain:
 
@@ -109,11 +109,11 @@ For some heroes, like Huskar, mana doesn’t matter very much during the early g
   * Do note that the mana regen from the sage’s mask alone is just as good as the (passive) regen from soul ring, urn, or medallion.
 * Arcane boots are fantastic for mana as they increase your mana pool, restore your mana, and restore your teammates’ mana. However they come with a cost in that you aren’t building another pair of potentially more useful boots. Because of this, arcane boots tend to be less useful on core heroes and more useful on supports.
 
-### Bottles
+## Bottles
 
 Lastly, bottles provide an excellent source of regen if they are used effectively. Effective usage of bottles relies on refilling them often, typically by picking up runes. Because of this, bottles are usually picked up by heroes that expect to be moving around the map enough during the early game that they can regularly refill their bottle. As such, the most common bottle carriers are mids and offlaners. Still, active supports or even safe lane carries can occasionally find a bottle pickup to be useful.
 
-## Stats
+# Stats
 
 Stats, or attributes, provide a variety of bonuses for your hero, which you can read about <a href="http://dota2.gamepedia.com/Attributes" target="_blank">here</a>. It’s important to know what these bonuses are in order to understand why getting stats might be useful. In particular, the most important aspects of attributes in the early game are:
 
@@ -123,11 +123,11 @@ Stats, or attributes, provide a variety of bonuses for your hero, which you can 
 
 Given these aspects, it won’t be too much of a surprise to see why you might buy stat items in the early game.
 
-### Increase Survivability
+## Increase Survivability
 
 This point is straightforward---the more HP you have, the more likely it is that you’ll survive. The 19 HP that you get from +1 strength might not seem like much, but it can mean the difference between surviving a gank or dying. You’ll also usually have more than just +1 strength; +3 strength gives you 57 HP, which could let you take 1--3 extra hits.
 
-### Increase Mana Pool
+## Increase Mana Pool
 Naturally, every hero wants an increased mana pool. However, having stats is particularly important for heroes with very restrictive mana pools.
 
 As an example, consider Wraith King. At level 1, he has 18 intelligence for a total of 234 mana. After casting Wraithfire Blast (14o mana), he needs 46 more mana before being able to cast it again. Based on his base mana regen (no clarities, etc.), this would take a little over a minute to regenerate. If another skirmish breaks out during that minute, he’ll be pretty useless.
@@ -142,7 +142,7 @@ Going one step further, what if you get +3 intelligence? You would then need to 
 
 Finally, note that +3 intelligence is the “threshhold” for Wraith King. Additional points of intelligence do continue to increase his mana pool, but they don’t actually enable him to throw more stuns (until you have a lot more intelligence). At this point, it would be more effective to buy a clarity instead of additional stats.
 
-### Increase Damage
+## Increase Damage
 
 Getting stats to increase your damage is important if you are in a farming core role, especially if you are playing mid. Additional damage is nice for being able to harass your opponent. However, its main value is to allow you to last hit better than your opponent---if you have more damage than your opponent, you will be able to kill or deny a creep before they can.
 
@@ -150,11 +150,11 @@ As a side note, stats aren’t the only way to increase your damage. You can buy
 
 Quelling blade gives melee farmers quite a bit of damage when they are hitting creeps. During the laning phase, this translates to easier last hits. However, it’s usually not a great starting item unless you are confident that you will have an easy lane. That’s because you generally need to sacrifice regen or some kind of defensive item to purchase the quelling blade. Your quelling blade is next to useless if you end up against an aggressive or harass-heavy lane where you can’t approach the creep wave. Because of this, it’s often better to bring extra regen to lane instead. You can always pick up a quelling blade at the side shop later.
 
-## Wards
+# Wards
 
 As you probably already know, there are two types of wards: observer wards and sentry wards. Observers provide normal vision around the area that they are place while sentry wards provide true sight around the area that they’re placed. Going over all the possible ways to use early game wards would be a bit out of the scope of this article, but we’ll briefly take a look at the basics of ward usage.
 
-### Provide Vision
+## Provide Vision
 
 As mentioned, observer wards are primarily used to obtain vision of areas of the map. At the beginning of the game, you tend to want vision of the same spots: runes or the area near your lane.
 
@@ -165,13 +165,13 @@ Rune wards are straightforward. Vision in or near your lane can be used in a lot
 * Your mid could use a ward to spot incoming Mirana arrows and Pudge hooks.
 * Your team could use vision to have proper position when playing against an enemy trilane, or any dangerous lane.
 
-### Detect Invisible Heroes
+## Detect Invisible Heroes
 
 Giving an invis hero free reign over a lane can be a recipe for disaster. Many invisible heroes can be easily zoned, as long as you have detection for them.
 
 Note that, for laning, sentry wards tend to be better than dust of appearance. Since the laning phase is fairly static, you know that your sentry placement will provide relevant true sight for 4 minutes, whereas dust only gives true sight for 12 seconds (and has a minute long cooldown). Moreover, sentries are particularly suited for spotting heroes that approach with invis, as opposed to dust which is suited for spotting heroes that escape with invis.
 
-### Blocking Neutral Camps
+## Blocking Neutral Camps
 
 All neutral camps can be blocked from spawning if there is something in the camp at spawn time. This means that you can block neutral camps with your hero, summons, couriers, and more relevantly, wards. The reason you would block a neutral camp (often your opponent’s) is to prevent them from utilizing that camp to gain an advantage.
 
@@ -179,7 +179,7 @@ The camps most often blocked are the pull camps near each team’s safe lane. Th
 
 Of course, you can block any camp that you deem fit. It’s not unusual to block off large portions of the opposing jungle if your opponent has an efficient or potent jungler, such as Chen or Enigma.
 
-### Counterwarding
+## Counterwarding
 
 Clearly, effective use of wards can be very useful. So, denying your opponent these benefits will also be useful.
 
@@ -189,17 +189,17 @@ There are two smaller points to be aware of. First, when counterwarding to unblo
 
 Second, counterwarding in the early game can be expensive, especially if you don’t find a ward. Remember to pay attention to your opponents in order to spot where they are likely to have placed their wards (or if they placed them at all).
 
-### Smoke of Deceit
+## Smoke of Deceit
 
 Aware opponents will notice you moving through their vision; smoke of deceit allows you to get in position without being seen. It’s particularly useful if you anticipate roaming and ganking at some point.
 
 Smokes are typically utilized by supports, as they are the ones who usually move around and gank in the early game. Furthermore, it’s obvious if a core hero is missing because they’re no longer in lane. Supports however, are often not as visible because they are doing tasks such as pulling, stacking, or checking runes. Because of this, supports can more effectively use smokes to pull off successful ganks.
 
-## Move Speed
+# Move Speed
 
 Move speed is probably one of the few concepts in Dota that is grasped intuitively. If you move faster, you can get to a destination quicker. If you move faster than an enemy hero, you will be able to chase or outrun them. Move speed seems straightforward, but there are some nuances that we’ll look at in this section.
 
-### Map Traversal
+## Map Traversal
 
 As mentioned, an obvious benefit of move speed is that you can walk around the map faster. It follows that having boots allows you to get more things done around the map:
 
@@ -208,7 +208,7 @@ As mentioned, an obvious benefit of move speed is that you can walk around the m
 * You can roam and gank other lanes more quickly.
 * It takes you less time to return to lane or to respond to your opponent’s rotations.
 
-### Boots vs No Boots
+## Boots vs No Boots
 
 The above concepts have probably been pretty boring because they are obvious. However, there is a correlated concept that is incredibly important and easily overlooked: **significant difference in move speeds between you and your opponent provide windows of opportunity.**
 
@@ -231,12 +231,12 @@ For these reasons, **getting boots as soon as possible should be an extremely hi
 * They buy items that they don’t need, such as a stout shield.
 * They buy item components that are useful, but could be delayed. Starting with a ring of protection that will be built into tranquil boots is a fine idea for cores, but it delays your much needed boots by 200 gold for supports.
 
-### Hero Specific Windows
+## Hero Specific Windows
 
 Some (very few) heroes have particularly strong windows of opportunity if they have a boots advantage. This is often because they have a skill that is exceptionally strong if the opponent cannot escape from it. On these heroes, starting with boots allows you to get kills or dominate your lane, especially if your opponent makes a mistake.
 
 Razor is one of the strong examples of this kind of hero, given a 1v1 lane. Starting with boots on Razor allows you to get longer Static Links, and therefore ruin your opponent’s ability to get last hits. In fact, boots-first Razor is so powerful that it can be worth starting with your own pair of boots if you expect to solo lane against Razor.
 
-## Final Notes
+# Final Notes
 
 Hopefully this article has gotten you to take a deeper look at the considerations you make when purchasing starting and early game items. Unfortunately, a lot of these decisions will rely on your understanding of the laning phase as well as on your understanding of your lane matchup, both of which are things that come from experience. Although you’ll eventually end up settling on starting items that you prefer to rely on from game to game, I hope that this article will help you understand when to change your starting items or vary your early game item progression.

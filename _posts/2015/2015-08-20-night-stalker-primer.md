@@ -14,11 +14,11 @@ I’ve started dabbling with Night Stalker in my own games and have found him to
 
 Let’s get started!
 
-## The Hero
+# The Hero
 
 Night Stalker is a great hero for controlling the pace of the game. If you’ve been looking for a hero who can support, create pressure, be aggressive and active, and transition to a semi-core then Night Stalker is for you! We’ll first look at a general overview of how Night Stalker functions as a hero.
 
-### Game Plan
+## Game Plan
 
 The basic game plan with Night Stalker is as follows:
 
@@ -29,7 +29,7 @@ The basic game plan with Night Stalker is as follows:
 
 We’ll go more in depth with these points later.
 
-### Strengths and Weaknesses
+## Strengths and Weaknesses
 
 Night Stalker has quite a few things going for him, especially with all of the changes he’s been getting over the past few patches. Some of his major strengths as a hero include:
 
@@ -53,7 +53,7 @@ Of course, Night Stalker has some weaknesses as well:
 
 * **Poor farming ability.** Night Stalker needs some items to stay relevant later on in the game, even as a support. Unfortunately, his best farming tools are his Void and the attack speed bonus he gets at night time.
 
-### Team Composition
+## Team Composition
 
 As Night Stalker, we want to be able to focus on creating pressure and having an early game impact. This is significantly affected by your team’s picks. There are two main rules of thumb: you need a core (or cores) who can also create pressure early and you need a second support.
 
@@ -63,7 +63,7 @@ The second support is also important; Night Stalker offers very little to his te
 
 In terms of overall team composition, it’s also nice to have teamfight strength. Night Stalker is strong for ganking or in chaotic fights, but has trouble fighting into an organized 5-man group.
 
-## Skill Build
+# Skill Build
 
 Usually you will want to max Void first on Night Stalker, followed by Hunter in the Night. The main points are to max Void by level 7 and max Hunter in the Night by level 10. So, a typical skill build would look something like this:
 
@@ -89,7 +89,7 @@ If it’s day, you could save the skill point that you otherwise would have put 
   src="http://cdn.dota2notes.com/images/screenshots/2015/08/20/ns-skill-3.png"
   caption="<a href='http://www.dotabuff.com/matches/1862579495/builds' target='_blank'>Team Unknown vs Elite Wolves, Frankfurt Major AM Qualifiers</a>" %}
 
-### Skill Usage Tips
+## Skill Usage Tips
 
 Basic usage of Night Stalker’s skills are fairly straightforward:
 
@@ -103,23 +103,23 @@ Of course, there are some finer points as well:
 * With that said, if your target is guaranteed to be dead, save your Void to cancel their potential TP.
 * Darkness no longer extends the day/night cycle as it used to. Use it when you join fights, and feel free to use it liberally at night time to reduce vision (especially at higher levels).
 
-## Item Build
+# Item Build
 
 Night Stalker can go in a few different directions with enough farm. As mentioned previously, we’re focusing on a utility, support Night Stalker. So, the main item we’ll be looking to buy is an Aghanim’s scepter.
 
-### Starting Items
+## Starting Items
 
 If your other support can buy all of the typical support items, you should start with boots of speed, tangos, and a clarity. If you do need to buy some support items, I would recommend also getting tangos, a clarity, and possibly a gauntlet of strength.
 
 You’ll probably have some extra gold; I have a personal preference of floating around 200 gold when possible. This allows me to buy sentries if I decide I need them; otherwise, I can get faster brown boots. If you do want to spend your gold, I’d recommend buying components that build into a magic wand or an urn.
 
-### Early Items
+## Early Items
 
 There is one item that you must finish before the first night: boots of speed. Your ability to gank is severely limited if you don’t have boots, even if you do have Hunter in the Night.
 
 Beyond boots, grab a magic stick and then an urn of shadows. It’s fine if the urn isn’t completed before the first night (although ideally it is completed during that night). At least get the sage’s mask if you have the money. The sage’s mask and magic stick should help ensure that you have enough mana to continually gank.
 
-### Core Items
+## Core Items
 
 The first major decision you need to make is whether or not you’ll build a hand of midas. Midas is a strong item for a support Night Stalker as it ensures that you’ll get levels and that you’ll make steady progress towards completing an Aghanim’s scepter. If you do go for one, get it before the remaining core items. The midas timing is not a major issue, but of course the sooner the better.
 
@@ -131,7 +131,7 @@ Your primary big ticket item is an Aghanim’s scepter. Aghanim’s gives you a 
 
 Finally, get a gem to accompany the scepter. The gem solidifies your control, allowing you to find invisible enemies as well as your opponent’s wards.
 
-### Luxury Items
+## Luxury Items
 
 Beyond Aghs, you can itemize according to what your team needs. You might especially consider:
 
@@ -140,11 +140,11 @@ Beyond Aghs, you can itemize according to what your team needs. You might especi
 * Blink dagger or force staff for increased mobility.
 * Scythe of vyse, abyssal blade, or heaven’s halberd for increased control.
 
-## Playstyle
+# Playstyle
 
 Here we’ll cover the finer details of playing Night Stalker, broken down according to the game plan outlined before.
 
-### The First Day
+## The First Day
 
 Night Stalker plays a bit like Ogre Magi during laning, except you don’t have the luxury of casting Ignite for free harass. Feel free to cast Void for kill attempts or to get in a bit more right-click harass, but otherwise don’t waste your mana. You want to harass weak lanes or heroes that are slightly out of position. You should be able to trade harass more comfortably than your opponents thanks to your high HP, armor, and HP regen.
 
@@ -154,7 +154,7 @@ Your primary goal during the first four minutes should be to get your brown boot
 
 Finally, remember to secure the 2 minute rune! A fortunate rune (haste or invis) will often set up a kill opportunity.
 
-### The First Night
+## The First Night
 
 Make sure that you have enough HP and mana to go ganking as night starts. Your four minutes are really precious, so you want to make sure you’re ready to fight as much as possible. Avoid dying unless you get a good trade. If you haven’t already, pick up a magic stick to help with sustain between ganks.
 
@@ -174,7 +174,7 @@ It might take some experimenting, but remember that Night Stalker is fairly dura
   src="http://cdn.dota2notes.com/images/screenshots/2015/08/20/ns-diving-towers.jpeg"
   caption="Diving a tower." %}
 
-### Pre-Aghanim’s
+## Pre-Aghanim’s
 
 Regardless of whether or not your Aghanim’s is finished, you’ll often want to participate in fights that break out. Night Stalker isn’t a great farmer, so fights tend to be your best way to get gold.
 
@@ -184,7 +184,7 @@ Your play during the day/night cycles will play out somewhat similarly to the fi
 
 It’s good to push towers when possible, but it’s even more useful when your team is capable of controlling the map. Remember to convert ganks into towers when possible to limit your opponents’ map control.
 
-### Post-Aghanim’s
+## Post-Aghanim’s
 
 Once you have an Aghanim’s scepter, your primary role will be to control the map. At night, you should be able to run around and keep tabs on where your opponents are. Usually you’ll be able to spot them before they’re able to spot you.
 
@@ -202,7 +202,7 @@ As mentioned in the items section, picking up a gem is extremely powerful with a
 
 During night time fights your hero might feel powerful, but remember that this isn’t the case unless you have items beyond Aghs. Even though you have a lot of HP at this point, running straight into the enemy team isn’t viable like it was in the early game. Oftentimes enemy carries will have BKBs and you’ll die rather quickly. Instead, fight opponents on the fringes of the main team fight until you get a BKB. If you have a gem, be especially careful---dying and losing a gem to the enemy team is roughly a 2000 gold swing. On top of that, you give up a lot of the map dominance that you previously had.
 
-## Final Notes
+# Final Notes
 
 Night Stalker is a reasonably flexible hero in terms of his place on a team. We took a look at how to run Night Stalker as a utility-oriented support.
 

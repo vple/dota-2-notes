@@ -15,37 +15,37 @@ Note that we’re generally ignoring the enemy team for the efficiency considera
 
 I included all of the tips I was able to remember. However, it’s likely that I forgot (or don’t know) some. I’ll update with new points as I remember them.
 
-## Basics
+# Basics
 
 These first points are low-hanging fruit when it comes to efficiency. They’re some of the most basic and easiest things you can do to improve if you aren’t doing them already.
 
-### Last Hitting
+## Last Hitting
 
 This is perhaps the lowest-hanging fruit when it comes to being efficient. Each last hit on a lane creep nets you about 50 gold. Each minute there are at least 8 creeps per lane. This is about 400 gold per minute. If you get every last hit for 10 minutes, you’ll have over 4000 gold. That’s enough to buy several early game items, and a significant chunk of the cost of a late game item! Ensure that you’re getting last hits; don’t leave money on the table.
 
 Don’t forget that you get extra gold for getting the last hit on a tower.
 
-### Resource Management
+## Resource Management
 
 It’s vital to keep your health and mana at acceptable levels so that you can take action at any given moment. It’s harder for a carry to farm with low health, as they are more susceptible to ganks. Supports that are low on mana might not be able to respond effectively to their opponents’ movement. If you’re concerned about an upcoming engagement, be more careful with your health and mana.
 
 If you’re too low on health or mana, get some more! You can use your consumables, or have a teammate share their consumables. Core heroes might ferry out additional consumables. You can also return to the fountain.
 
-### Jungle Creeps
+## Jungle Creeps
 
 It’s important to take advantage of all possible sources of farm. Early on in the game, you won’t be able to handle jungle creeps. Later on, however, you should be able to quickly farm lane creeps and then move into the jungle for some additional creeps there.
 
-### TP Scrolls
+## TP Scrolls
 
 Usually you’ll prefer to use TP scrolls when you need to travel a large distance on the map. This saves time, enabling you to spend the time that you would have been walking to do something more important.
 
 Note that getting somewhere quickly is sometimes outweighed by other factors. Early game supports might prefer to walk in order to save gold. You might also walk if you anticipate that you’ll soon need to TP somewhere else.
 
-## Farming
+# Farming
 
 These next points address farming techniques that will help to increase your gold and experience. Although most useful to carries and core heroes that are expected to get farm, some of these points will be applicable to other roles as well.
 
-### Farming Patterns
+## Farming Patterns
 
 A farming pattern is where you follow a routine to try to maximize your farm. This is typically done by farming both a lane and jungle camps.
 
@@ -53,7 +53,7 @@ One of the most basic farming patterns is to farm your lane, then rotate into th
 
 An example of this is a Radiant mid lane Shadow Fiend. Shadow Fiend can easily nuke down creeps, which he’ll typically do to clear the mid lane creep wave. This then gives him some time (until the next creep wave) to move into the Radiant jungle to farm and/or stack some camps. This allows him to get more farm than just the lane creeps he would otherwise be getting.
 
-### Nuking
+## Nuking
 
 Nuking creeps refers to using your AoE spells to deal damage to and quickly kill creeps. Of course, you’ll need an AoE spell in order to be able to nuke creeps. The benefit of nuking creeps is that you kill them more quickly, enabling you to rotate to another area to farm more creeps (i.e., follow a farming pattern). In this context, we include spells that aren’t typically considered nukes (such as Batrider’s Firefly).
 
@@ -61,7 +61,7 @@ If you have no concerns about preserving mana or having your spells on cooldown 
 
 Gyrocopter’s Rocket Barrage, Shadow Fiend’s Shadow Raze, and all of Leshrac’s spells are some good nukes that you would want to use to speed up your farming. You’d need to be careful with spells such as Shadow Shaman’s Ether Shock, as it consumes a lot of his mana. Of course, this isn’t as much of an issue once he gets some mana items.
 
-### Stacking
+## Stacking
 
 Stacking neutral camps is an effective way to increase the amount of farm on the map. Normally, any existing creeps at a neutral camp will prevent new creeps from spawning at that same camp. By stacking, you are allowing these new creeps to spawn, which increases the total amount of gold and experience available on the map.
 
@@ -69,13 +69,13 @@ It’s important to note that any hero can and should stack camps, provided that
 
 If you’re unfamiliar with stacking, the <a href="http://dota2.gamepedia.com/Creep_Stacking" target="_blank">Dota 2 Wiki</a> has some basic information. There are also plenty of other tutorials and resources online.
 
-### Pulling
+## Pulling
 
 Although usually used to control lane equilibrium, pulling also allows you to farm some creeps without putting yourself in too much risk. Note that pulling isn’t something that only supports do---carries can also use pulls to get themselves some farm.
 
 Again, you can find various tutorials online. For pulling, I recommend watching a video tutorial.
 
-### Farming Multiple Camps
+## Farming Multiple Camps
 
 Some heroes are capable of farming multiple camps simultaneously due to their AoE spells or illusions. When feasible, you should always aim to do so. Here are some examples.
 
@@ -83,19 +83,19 @@ Some heroes are capable of farming multiple camps simultaneously due to their Ao
 * Batrider’s Firefly is very effective at farming multiple creep camps at once. Activate Firefly and fly over as many camps as you can while spamming Sticky Napalm.
 * Any illusion based hero can farm multiple camps simultaneously. When your illusions are strong enough, just send them to go fight camps. This is important to maximize your farm on heroes such as Phantom Lancer, Naga Siren, and Terrorblade.
 
-### Farming Both Jungles
+## Farming Both Jungles
 
 By default, all gold and experience is available roughly equally to both teams. Each team has three lanes available to farm, five jungle camps, and an ancient camp. In this way, each team is “entitled” to a certain amount of gold and experience if the balance remains in equilibrium. If, however, your team is able to farm both jungles, you are gaining gold and experience that you wouldn’t otherwise have. Additionally, you are stealing gold and experience from the other team, making them less efficient.
 
 If you ever find your team to be behind and with little map control, you can try to get to your opponent’s jungle to farm there. If your opponents are aggressive and spending most of their time on your side of the map and/or in your jungle, their jungle will be somewhat safe to farm.
 
-### Drive-By Farming
+## Drive-By Farming
 
 Many times you’ll find yourself walking by an area on your way to another objective. This might include walking through the jungle after a tower push or walking back to your fountain to heal up. On your way, if you can quickly and safely farm some creeps, you should do so.
 
 This can be an effective way to get much-needed gold for supports in the early game. If you need to head back to the fountain for any reason and you have an AoE nuke, you can probably farm your easy camp on the way back.
 
-### Creep Cutting
+## Creep Cutting
 
 Usually, creep cutting is employed for tower pushes. However, if you’re a high-mobility hero that can quickly clear a creep wave, you might be able to get away with creep cutting at other points in the game.
 
@@ -104,21 +104,21 @@ At any given point in the game, you can learn/predict where all of the creep wav
 Creep cutting can be extremely risky, as you will often be away from your team and in enemy territory. However, it isn’t always as risky as
 it might seem. Creep cutting is often unexpected, so your opponents might not be able to punish you if they aren’t already in the area.
 
-## Bottle Usage
+# Bottle Usage
 
 These are some bottle efficiency tricks.
 
-### Bottle Spamming
+## Bottle Spamming
 
 If you have a bottle and are healing up in the fountain, your bottle is immediately refilled. This means that you can spam your bottle charges while healing up, helping you to get back to full just a bit faster.
 
-### Bottle Crowing
+## Bottle Crowing
 
 Especially as a mid, there will be times that you’ll have an empty bottle and you won’t be able to refill it with a rune. Instead of walking back to the fountain to refill your bottle, you can have your courier take your bottle back to the fountain for you. This refills the bottle; you can then have it ferried back to you.
 
 Remember that your courier is slowed if it has an empty bottle on it. If you have a flying courier, activate the speed boost after you place the empty bottle on it.
 
-### Bottle Refilling
+## Bottle Refilling
 
 For a very short period of time after a hero leaves the fountain, they will still refill any bottles in their inventory. This has a few applications:
 
@@ -126,11 +126,11 @@ For a very short period of time after a hero leaves the fountain, they will stil
 * Share a bottle charge on an ally immediately after you TP from the fountain. Again, your bottle will fill up again to 3 charges.
 * Pick up a bottle or have an ally give you a bottle immediately after you TP from the fountain. The bottle will refill, even though the bottle itself never actually made it to the fountain.
 
-## Stat Manipulation
+# Stat Manipulation
 
 This next section is lengthy! It goes over some of the mechanics of stat changes and how you can use them to your advantage.
 
-### Maximizing Regen
+## Maximizing Regen
 
 There are many skills and items in Dota 2 that restore health or mana. Examples include healing salves, bottles, and arcane boots. These items typically apply a fixed amount of regen, such as healing salves restoring up to 400 HP. However, by manipulating your stats, you can actually get even more regen from these items.
 
@@ -144,7 +144,7 @@ As a note, be careful when dropping items to do this. Enemy heroes could pick up
 
 There are countless examples of where you can use this regen trick. I’ll cover a few of them.
 
-### Tread Switching
+## Tread Switching
 
 Many of you are aware that power treads can be toggled between strength, intelligence, and agility. Setting your treads to one of these attributes grants +8 stats to that attribute. Note that this allows you to switch attributes in order to maximize regen, as described above.
 
@@ -154,13 +154,13 @@ For example, switching to intelligence treads before casting a spell will increa
 
 In a nutshell, you’d prefer to maximize an attribute before any effect that will cause you to lose the corresponding resource (taking damage, casting a spell). You’d prefer to minimize an attribute before any effect that will increase the corresponding resource (restoring health or mana).
 
-### Arcane Boots
+## Arcane Boots
 
 Arcane boots restore a fixed 135 mana. Before you or an ally uses their arcane boots, drop any mana-increasing items. When you pick your items back up, you’ll actually have gained more than 135 mana. This is the same thing going on as in the salve example above.
 
 Note that this requires a bit of coordination to pull off if a teammate is using their arcane boots on you.
 
-### Soul Ring
+## Soul Ring
 
 Soul ring is an attractive item just for its passive---a fairly convenient 150 mana every 30 seconds. However, by manipulating your stats, you can get even more out of a soul ring.
 
@@ -172,9 +172,9 @@ In order to do this you’ll need other items that increase your total mana pool
 
 I won’t go over the specific math on why this works, but the idea is the same as before. The soul ring active gives you a fixed amount of mana; when the soul ring buff expires you lose a “fixed” amount of mana (more accurately, a non-percentage based amount). By dropping our item, we’re just minimizing our total mana before restoring mana. By picking up the item, we’re maximizing our total mana before losing mana. This is essentially the arcane boots trick, just a little more complicated.
 
-## Miscellaneous
+# Miscellaneous
 
-### Keep Track Of Your Gold
+## Keep Track Of Your Gold
 
 There are two types of gold: reliable and unreliable. You can read up more on gold <a href="http://dota2.gamepedia.com/Gold" target="_blank">here</a>, but the important takeaway is that you don’t lose reliable gold on death. To see how much of each you have, hover over your total amount of gold. A pop-up will tell you how much gold of each type you have.
 
@@ -182,15 +182,15 @@ It’s important to know how much unreliable gold you have because that’s the 
 
 Remember that you can always buy items such as TP scrolls or wards if you’re unable to buy a piece of the item you want to build up to.
 
-### Tranquil Boots
+## Tranquil Boots
 
 The passive tranquil boots heal gets broken if you are attacked within the last 13 seconds while wearing the tranquil boots. If you’re jungling, drop your tranquils on the ground and pick them up after you finish the camp. You’ll be able to take advantage of the regen as soon as you’re done with the camp, as opposed to having to wait while the heal is disabled.
 
-### Temporary Regen
+## Temporary Regen
 
 You can sell almost all items within 8 seconds of purchase for a full refund. By repeatedly purchasing and selling items that provide passive regen, you can give yourself a temporary regen boost without losing any total gold (you may be converting reliable gold to unreliable gold). This is most often done by buying and selling one or more rings of health at the side shop, repeating as desired.
 
-### Tactical Suicide
+## Tactical Suicide
 
 Sometimes, one of the most efficient things you can do is to suicide to neutral creeps. This allows you to return to your fountain and thus restore your health and mana. However, it’s highly situational as to when this technique is actually efficient:
 

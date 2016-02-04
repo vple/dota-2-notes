@@ -10,7 +10,7 @@ blurb: >
 
 An issue that many beginning players don’t realize that they have is their poor camera control. This article is intended to be a quick primer on camera basics.
 
-## Panning
+# Panning
 
 There are three common panning techniques: edge panning, WASD panning, and scroll wheel panning. Edge panning refers to bumping your cursor against the edges of your screen to move your camera. WASD involves pressing those keys to move your camera instead. Scroll wheel panning refers to holding down your scroll wheel (mouse 3) and moving your mouse to move the camera.
 
@@ -18,25 +18,25 @@ I’m not familiar with all of the pros and cons of each method. However, I’m 
 
 I’m in favor of using edge panning, partially because I hardly have enough hotkeys and partially because that’s the only panning method I’ve ever used. (In a typical game, I use around 20 keyboard buttons.) You should use whatever you are most comfortable with.
 
-## Hero Selection
+# Hero Selection
 
 When playing, you often want to jump back to your hero. This can be easily done with hotkeys. By default, your hero is bound to F1. I will always bind my hero to 1 as well, because 1 is slightly closer than F1. To do this, select your hero and press Ctrl + 1. By default, the numbers 0--9 are all separate control groups.
 
 Whenever you want to reselect your hero, press F1 (or 1, if you bound to 1 as well). To recenter the camera on your hero, double tap F1.
 
-## Long Range Events
+# Long Range Events
 
 Sometimes, events happen far away on the map. For example, a fight breaks out in another lane. You want to get vision of that event so you know what’s happening and can assess how to respond.
 
 The way to do this is by repositioning your camera via the minimap. Just click on the minimap and your camera will jump to that location. You should always use this method to gain vision of far away events, as it is much faster than panning to that location.
 
-## Camera Position
+# Camera Position
 
 One of the most common errors for beginners is poor camera positioning. Loosely, poor camera positioning means that the camera is not showing events, units, or areas that are important at the moment. Too much of the screen will be devoted towards looking at an area where nothing of interest is likely to occur.
 
 Even though the previous section said to always position via the minimap, that pertains to long range events. In the following examples, some are better suited for camera panning rather than camera jumping. In general, if you need to move the camera more than two camera screens, you should probably use the minimap. Otherwise, use panning.
 
-### Laning
+## Laning
 
 {% include image.html
   src="http://cdn.dota2notes.com/images/screenshots/2014/08/16/camera-ok-laning.jpeg"
@@ -56,7 +56,7 @@ This example is even worse. The creep equilibrium moved out further, so I went f
 
 Once again, my creeps are walking forward. However, note how much easier it is to see the enemy units here. My camera captures my laning opponent. It’s also useful for me to be able to see any threats, such as the tier 1 tower. It’s also slightly easier for me to see any enemy heroes that are trying to gank me from the front.
 
-### Walking
+## Walking
 
 The next kind of mistake that people tend to make involving the camera is to focus too much on their hero when their hero is just walking around.
 
@@ -91,7 +91,7 @@ If you walk through a dangerous area, it’s justified that you pay more attenti
 
 Finally, if it turns out you’re in a dangerous area, that’s really unfortunate! If you get hit by something (or notice something on the minimap), you can quickly bounce back to your hero with your hero hotkey. From there, just do your best to respond appropriately.
 
-### Initiating
+## Initiating
 
 The last thing I want to talk about for camera positioning is how you initiate. In particular, how you want to position when you have a long range initiation tool (such as a blink dagger).
 
@@ -109,7 +109,7 @@ However, I actually already know where the enemy heroes are! My minimap tells me
 
 Some of you might be a bit intimidated by this camera position because you’re expected to take action and you can’t see your hero. This will take some time to get used to. The important thing to be aware of is where your hero is, as this will let you know your initiation range. Fortunately, long range initiators are often able to find an area where they can just sit still and wait before jumping in, so their hero position won’t change.
 
-## Final Words
+# Final Notes
 
 This ended up a bit longer than I intended, but I think that’s just because I was a bit wordy trying to explain the ideas. Here are the important takeaways:
 

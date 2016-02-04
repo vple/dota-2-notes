@@ -10,11 +10,11 @@ blurb: >
 
 As Tinker is becoming more popular, I thought I’d go over some key points about how to play him. We’ll talk about farming, laning, and itemization. I’ll assume that you already have a general familiarity with Tinker and his playstyle.
 
-## Farming
+# Farming
 
 We’ll start a bit out of order and talk about Tinker’s farming first. One of Tinker’s strengths is that he is able to farm very quickly. This is all thanks to March of the Machines, which deals a tremendous amount of AoE universal damage.
 
-### Mechanics
+## Mechanics
 
 March robots travel in a straight line in the direction that you cast march. Because of this, you should cast March in a direction **perpendicular** to the direction that your target is moving in. This enables you to maximize the amount of damage you deal to your target as they’ll get hit by more robots.
 
@@ -22,7 +22,7 @@ As a quick example, suppose you’re farming the Dire ancients. They’ll probab
 
 There are some other less important details about March. The AoE goes a bit further in front of Tinker than from behind, and it takes a few seconds for the robots to travel the entire distance. This allows you to do some cute things like using March to stack ancients from the low ground at the Radiant mid lane. However, these details aren’t that important for farming.
 
-### Technique
+## Technique
 
 Farming quickly on Tinker is based off of rapidly clearing creeps thanks to March of the Machines. His immense mobility almost always guarantees that there will be somewhere for him to farm. Tinker’s basic farming pattern is simple:
 
@@ -39,7 +39,7 @@ It takes relatively little mana to clear one wave of creeps. You only cast one o
 * Stack neutral camps.<br>
 One of Tinker’s strengths is that he can do stacks of any size with ease. Every time you stack a camp, you’re increasing the amount of gold you can farm. Try to stack a camp every minute, preferably the ancients.
 
-### Smart Farming
+## Smart Farming
 
 If you haven’t already realized, Tinker is able to farm a lot of the resources on the map very quickly. Although this is generally good for you, there is a potential downside: you steal farm from your teammates.
 
@@ -49,7 +49,7 @@ Additionally, when farming the jungle, try to farm your opponent’s jungle. Thi
 
 As a final point, try to steal your opponent’s stacks! If you know that your opponent is stacking ancients (for Luna, Gyrocopter, etc.), try to steal part or all of that stack. If you have a blink dagger, you’ll be able to do this with very little risk.
 
-### March Locations
+## March Locations
 
 Here are a handful of ways that you can cast March to farm neutral camps. All of these jungle Marches hit at least two camps.
 
@@ -81,7 +81,7 @@ Here are a handful of ways that you can cast March to farm neutral camps. All of
   src="http://cdn.dota2notes.com/images/screenshots/2014/04/12/tinker-march-7.jpeg"
   caption="Dire outer jungle." %}
 
-## Laning Phase
+# Laning Phase
 
 Our primary goal during the laning phase is to get our core items. There are three core items on Tinker: bottle, soul ring, and boots of travel. (We’ll talk more specifics about items later.) Getting these items then allows us to farm globally, as described in the previous section.
 
@@ -93,7 +93,7 @@ Note that if the lane is in equilibrium, you can March the lane creeps (at :44 s
 
 The best way to learn the timings necessary to stack camps is by playing practice games.
 
-### Skills
+## Skills
 
 There are a few guidelines I have for selecting your skills. Take Laser at level 1. By level 3, you should have two points in Laser. By level 9, you should be 2-2-4-1 (two points Laser, two points Heat-Seeking Missile, maxed March, one point Rearm).
 
@@ -105,7 +105,7 @@ Note that I recommend having 2-2-4-1 by level 9, not 2-0-4-1 by level 7. You can
 
 Some players will go for the max Laser, max Heat-Seeking Missile skill build. The strength of this build is that you have a lot of burst damage. The downside is that you’ll be very far behind if you aren’t able to get any kills.
 
-### Core Items
+## Core Items
 
 As mentioned, there are three core items on Tinker: bottle, soul ring, and boots of travel. As the Radiant mid, I will buy a bottle, brown boots, soul ring, and boots of travel in that order. Here’s some general advice:
 
@@ -127,7 +127,7 @@ The bottle is important outside of the laning phase because it gives you some mo
 
 You’d buy a soul ring in addition to a bottle before boots of travel if you plan to use several successive marches to farm. In particular, the soul ring is useful to march down ancients. You might be concerned that it will delay your boots of travel by 800 gold, but this shouldn’t be an issue if you are stacking camps.
 
-## Standard Itemization
+# Standard Itemization
 
 Thanks to Rearm, many items become very powerful on Tinker. However, several players buy poor items. We’ll go over the standard itemization on Tinker.
 

@@ -17,7 +17,7 @@ For this article in particular, a beginning Anti-Mage player might gain a better
 
 Let's get started!
 
-## Game Plan
+# Game Plan
 
 As Anti-Mage, you'll be aiming to play your own solo game for at least the first half of the game. Your game plan for this portion of the game is straightforward: farm quickly and split push. In particular, this means that you will often not come to the aid of your team if a fight breaks out, unless perhaps the fight is extremely close to where you already are. Instead, you will use that space to farm, push, and hopefully take towers. To an extent, you can ignore what your team is doing---you only care about where they are on the map.
 
@@ -31,11 +31,11 @@ Done properly, this play style will result in your team having a strong advantag
 
 If your opponent deals with your team well, your opponents will have some kind of lead and find themselves able to be aggressors (meaning they will have some map control and likely push your towers). In this case, you will generally still try to play a split push style, if appropriate, but look to join your team and fight more often. Your opponents will usually be strong enough to kill you with one or two heroes when you split push. So, your game plan will usually be to have the rest of your team ready to defend while you cautiously split push. Once you force a TP or two from your opponent to defend their towers, you TP back to your team where you can fight with a numbers advantage.
 
-## Farming
+# Farming
 
 Efficient farming on Anti-Mage actually requires more than just being able to last hit; it necessitates good skill, item, and movement decisions as well.
 
-### Farming With Battle Fury
+## Farming With Battle Fury
 
 We'll start with one of the most fundamental Anti-Mage skills: farming with your battle fury. The basic technique is straightforward: kill some creeps, then blink to the next group of creeps to farm.
 
@@ -57,7 +57,7 @@ This farming process is largely fluid and becomes natural with practice. As an e
   src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-farm-route.jpeg"
   caption="A route through the Radiant ancients, Dire jungle, and Dire top lane." %}
 
-### Farming Before Battle Fury
+## Farming Before Battle Fury
 
 There isn't very much to say in terms of farming during the laning phase that is specific to Anti-Mage. So, we won't cover general aspects that you should become familiar with, such as last hitting, controlling the creep wave, or manipulating creep aggro.
 
@@ -77,7 +77,7 @@ If you find that there is still a lot of action in your lane after the laning ph
 
 The main takeaway here is that you can and should farm jungle creeps, even before you finish your battle fury.
 
-### Farming Improvements
+## Farming Improvements
 
 Although not vital to farm with Anti-Mage, there are some subtle changes you can make to your actions to improve your farming.
 
@@ -95,11 +95,11 @@ There are a few rules of thumb for deciding when to take skill points and when t
 
 3. Max your mana break at the time that you finish your manta style. Your illusions benefit from your mana break.
 
-## Split Pushing
+# Split Pushing
 
 As mentioned, split pushing is an integral part of Anti-Mage's game. Situationally, there will be times for you to split push at any time during the game. You can split push early game when the opposing offlaner leaves, mid game as you farm and your team creates space elsewhere, and late game as your team aims to chip away at towers and force your opponent to make a mistake.
 
-### Split Push Scenarios
+## Split Push Scenarios
 
 The crucial factor in effective split pushing is identifying when to split push a lane and doing so as soon as possible. This is because the sooner you start pushing that lane, the less time your opponent has before they have to commit to a reaction. If they wait too long, they'll lose too much to your split push.
 
@@ -150,7 +150,7 @@ You might decide that you want to participate in the ensuing fight, preferably w
   src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-force-tp.jpeg"
   caption="Radiant can no longer push since Medusa is leaving to defend." %}
 
-### Killing The Defender
+## Killing The Defender
 
 Killing the defender is an extremely powerful technique if done successfully. Unsurprisingly, the idea is that you can sometimes kill the hero that comes to defend your split push. Often times this is true if the defender is a support, underfarmed, or just naturally weak to Anti-Mage. Successfully killing the defender leaves your opponent in an even worse position, since you are still creating pressure with your split push while your opponent is a man down.
 
@@ -160,7 +160,7 @@ Relatedly, be aware that Anti-Mage is extremely strong at killing isolated targe
   src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-kill-defender.jpeg"
   caption="A close but unsuccessful attempt to kill the defending Lina. It forces several TPs as well." %}
 
-### Setting Up Split Push
+## Setting Up Split Push
 
 You can go a step further and help spilt push scenarios occur more frequently. This is easy to do---keep your targetted lane pushed and try to farm as close as you can to the lane equilibrium. This way, you can more quickly get to your opponent's structures if you decide you do want to split push.
 
@@ -172,11 +172,11 @@ If you can, try to get your team to have multiple lanes pushed at all times. Thi
   src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-illusion-push.jpeg"
   caption="Forcing a response with just Anti-Mage illusions." %}
 
-## Itemization
+# Itemization
 
 Anti-Mage follows a fairly static item build. Power treads, battle fury, and manta style are the most well-known items for Anti-Mage to build. Other typical items include Vladimir's offering, abyssal blade, heart of tarrasque, butterfly, and black king bar.
 
-### Battle Fury
+## Battle Fury
 
 There are three possible ways you can buy your battle fury: with no boots, after brown boots, and after power treads. You will almost always want to get battle fury after power treads.
 
@@ -186,7 +186,7 @@ Battle fury with boots is better, but still not great. Unlike before, you have a
 
 One thing to point out is that it's fine to grab your ring of health before power treads to help you with sustain. It's okay to get your ring of health before boots as well, but that decision should be based on your lane.
 
-### Standard Items
+## Standard Items
 
 In case it wasn't already clear, your first two big items should be treads and battle fury, in that order. Your overall first goal with Anti-Mage is getting a battle fury so you can farm effectively, as we mentioned before. But what about afterwards?
 
@@ -208,7 +208,7 @@ Anti-Mage also benefits from all of the usual manta active benefits---using illu
 
 These are the standard items on Anti-Mage: treads, battle fury, Vladimir's offering, and manta style. You'll see every pro go for this item build, unless perhaps they are drastically behind.
 
-### Late Game Items
+## Late Game Items
 
 There's not too much to talk about for these. Anti-Mage's set of late game items is fairly standard and not that large. There's no standard order either; you should adapt your item purchase to what's necessary in your game.
 
@@ -223,7 +223,7 @@ There are two big items that are not very useful on Anti-Mage: monkey king bar a
 
 Lastly, remember that mana break is a unique attack modifier. This means that desolator, eye of skadi, and all lifesteal (except Vladimir's offering) are largely useless on Anti-Mage.
 
-### Early Game Items
+## Early Game Items
 
 Anti-Mage's early game itemization is probably the most overlooked when it comes to his items.
 
@@ -248,11 +248,11 @@ With the exception of the ring of protection, you can buy any of the remaining e
   src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-quelling-blade.jpeg"
   caption="Opting for quelling blade and boots for better lane control." %}
 
-## Fighting
+# Fighting
 
 This primer wouldn't be complete with a piece on fighting, namely taking team fights with the rest of your team.
 
-### When To Fight
+## When To Fight
 
 We've talked about killing solo opponents while split pushing, but when should you group up with your team?
 
@@ -266,7 +266,7 @@ Do note that we needed to qualify this objective. It has to be one that is diffi
 
 Second, when the most effective thing you can do for your team is to take (and hopefully win) a fight. This sounds a bit tautological, but it's important to note that you want to fight when it's your best (and probably only) course of action. This will typically happen late game, when your opponent is pushing your rax. If you find yourself in this situation and realize that you can't split push (perhaps because someone is defending), your best course of action might just be to fight with your team.
 
-### How To Fight
+## How To Fight
 
 In team fights, especially on even farm, Anti-Mage is extremely vulnerable when his blink is on cooldown. However, blink is also a good tool for getting into the fight. For these reasons, you want to do your best to ensure that you never blink into a compromising situation.
 
@@ -276,7 +276,7 @@ Usually, this means that you want to go for overextended or isolated heroes. Sup
   src="http://cdn.dota2notes.com/images/screenshots/2015/06/28/am-kill-slardar.jpeg"
   caption="Slardar initiated on Dire, but this means he's isolated from his team and therefore an easy kill." %}
 
-### Techniques
+## Techniques
 
 There are two main things to keep in mind once the fight has started.
 
@@ -286,7 +286,7 @@ Second, mana void should be used against targets who have lost a lot of mana (un
 
 Remember also that there are two ways for your opponents to lose mana: you burn it away or they cast a spell. Many juicy mana void targets can present themselves after a fight breaks out, even if you haven't actually hit them. If you have good team fight awareness, you can hold on to your mana void for those opportune times. These juicy targets are usually into heroes who expend mana quickly, such as Storm Spirit, Skywrath Mage, and Lina.
 
-## Final Notes
+# Final Notes
 
 Anti-Mage, a classic farming carry, is fairly unique in that his strengths make it natural to split push rather than to fight with his team.
 

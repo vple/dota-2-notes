@@ -8,7 +8,7 @@ blurb: >
   Learn all the techniques and nuances of effective warding and counter warding.
 ---
 
-## Introduction
+# Introduction
 
 The art of warding is crucial to winning Dota 2 games. Many players understand that gaining vision through wards is important. In fact, to improve their warding, some players take the time to learn a variety of ward spots.
 
@@ -18,7 +18,7 @@ This article focuses on warding as it relates to map vision. It does not focus o
 
 I assume in this article that you already have at least a basic familiarity with warding. If you’re a beginner, I recommend reading [this article]({% post_url 2014-02-01-beginner-warding %}) instead.
 
-## The Challenge
+# The Challenge
 
 When you ward and counter ward, there are three general things that you want to accomplish:
 
@@ -34,7 +34,7 @@ Although wards can be bought by any member of your team, warding duty is general
 
 The act of placing wards can also be troublesome. Placing wards can be dangerous; you’re an easy kill if your opponents catch you. Since wards should often give vision throughout the entire map, the act of warding often involves walking around the map accordingly. As you’re doing this, you are often losing out on experience. More importantly, you need to find time to place these wards when your team doesn’t need you for pushes, ganks, or team fights.
 
-## Objective Based Warding
+# Objective Based Warding
 
 Most of the time you will want to use your observer wards to obtain vision that will allow your team to accomplish an objective.
 
@@ -62,7 +62,7 @@ In these two images, pretend that Furion and the observer wards are for Dire ins
   src="http://cdn.dota2notes.com/images/screenshots/2014/02/04/aow-safe.jpeg"
   caption="Warding the jungle entrances tells you much more." %}
 
-## Warding Safely
+# Warding Safely
 
 Now that we’ve taken a look at where you should be warding, let’s go over how you should be warding. There are two things that we want to focus on: warding safely and having appropriate wards up when you need them.
 
@@ -140,7 +140,7 @@ If you can’t avoid being seen, try to abuse terrain. You want to be in a posit
   src="http://cdn.dota2notes.com/images/screenshots/2014/02/04/aow-terrain-2.jpeg"
   caption="For Dire." %}
 
-## When To Ward
+# When To Ward
 
 Supports don’t always have time to ward freely. This is often because you’re needed at a fight. Other times it’s too dangerous to get a ward up where you want it. Here are some techniques to help ensure that you have vision when it matters.
 
@@ -167,7 +167,7 @@ You’ll notice that all of these techniques require the same skill: foresight. 
 
 Lastly, there are very important times when you should not be warding. This could be when your team is trying to coordinate something for which you need to be present, such as a smoke gank or a tower push. You should also not be warding without your entire team if it’s likely that your opponent is looking for a fight or pick off. You risk delaying or preventing your team from being able to take an important objective. You could even get picked off or cause your entire team to get wiped. Always pay attention to what’s going on when you ward!
 
-## Counter Warding
+# Counter Warding
 
 So far, all of our warding considerations have largely ignored our opponent. Yes, we always consider our opponent when deciding where to ward---ideally our wards will show us where the enemy heroes are. However, our opponent is playing the same game that we are playing. They’re looking to place wards that reveal your team. They’re looking to place wards that help to accomplish their objectives. We want to stop this.
 
@@ -179,7 +179,7 @@ Second, counter warding is more dangerous. You need to not only catch your oppon
 
 Third, it is harder to determine where you should be placing sentries. You usually want to place sentries that will cover multiple likely ward spots (consider counter warding the Roshan pit). However, that’s the easier part of placing your sentries. The harder part is figuring out where your opponent has wards in the first place.
 
-## Finding Wards
+# Finding Wards
 
 There are three general methods you can use to find your opponent’s wards:
 
@@ -205,7 +205,7 @@ The third method of finding wards is to see where your opponent places them. Thi
 
 Of course, this method requires having vision of your opponent as they are warding. Note that this makes it even more important not to give your opponent vision of you as you ward, as it makes it easier for them to counter ward you.
 
-## Objective Based Counter Warding
+# Objective Based Counter Warding
 
 It can be hard to find all of your opponent’s wards without a gem or necronomicon. Although it’s great if you can find all of your opponent’s wards, it’s not necessarily worth sinking a lot of your gold. Instead, you can focus on objective based counter warding. Similar to objective based warding, your goal is to deny vision of important areas from your opponent.
 
@@ -215,7 +215,7 @@ Counter warding defensively has a similar idea. It’s crucial to do defensive c
 
 The process is the same as usual; determine which area you want to protect and place sentries that will catch enemy wards in that area. The important point here is that defensive sentries are not wasted just because you didn’t find an enemy ward. That’s because the sentry is still accomplishing your objective: to ensure that your opponent has no vision of a certain area.
 
-## The Vision War
+# The Vision War
 
 Remember that our opponent is playing the same game as us. Not only are they looking to obtain useful vision for themselves, they’re also looking to counter ward. We need to react accordingly.
 
@@ -229,7 +229,7 @@ To go a step further, you might make the assumption that your opponent covered a
 
 Of course, it’s possible for you and your opponent to continually adjust to one another. In practice, you won’t have to adjust forever, so don’t worry about having to always outmaneuver your opponent. You’re limited by gold and observer ward stock. Furthermore, you can’t continually shift your observer ward placement; eventually, they won’t cover your target area sufficiently. It also usually isn’t worth it to devote so many resources to getting vision of a particular area. If it is (such as getting vision of the Roshan pit), your conflict will often be settled by a team fight.
 
-## Alternative Warding
+# Alternative Warding
 
 Even though the vision war can’t go on infinitely, there’s still an obvious problem whenever you get counter warded: you lose vision! The way to deal with this is to ward alternate locations. This means that you place your observer ward outside of your opponent’s likely sentry range. You’re sacrificing some vision of your desired area in order to reduce the chances of getting counter warded.
 
@@ -269,7 +269,7 @@ There isn’t too much to say on this topic, as it largely comes down to knowing
 
 Of course, there are many more alternative ward spots you can use. Some of these ward spots might be fantastic alternatives waiting to be discovered. It’s important to keep an open mind and remember that any ward can be a good ward if it gives you vision of what you need.
 
-## Roshan Wards
+# Roshan Wards
 
 Roshan can be a critical part of a Dota 2 game. However, the three most common ward spots for spotting the entrance to Roshan are unsurprisingly known by most players. This makes them easy to deward. Here are some alternatives to spot the area near the Roshan pit entrance.
 
@@ -317,7 +317,7 @@ Take a look at where Furion is standing. This is about how close a ranged hero w
 
 Remember, however, that this is a fairly general example. If the opposing team had a Venomancer, Beastmaster, or Sniper (among other things), this could be a very poor ward (because your opponent can deward it without endangering their heroes). You’ll need to assess your situation and respond accordingly. (As an additional note, the second image was taken during daytime. However, the vision you would get from the observer ward is roughly similar to what is shown.)
 
-## Emergency Wards
+# Emergency Wards
 
 The above example isn’t limited to Roshan, although that’s the most common scenario. You can always find yourself without enough vision before a possible team fight, despite your hero vision. This might be because there are a lot of trees, a lot of different terrain heights, or because it’s nighttime.
 
@@ -335,7 +335,7 @@ A somewhat common example of this is when your team is defending a tower at nigh
 
 You probably won’t need to utilize these emergency-type wards often. However, it’s something useful to keep in your toolkit. In case the above images aren’t enough to convince you, pro teams do this as well. I’ve seen Na’vi place an emergency ward to gain vision in a team fight during the enemy Night Stalker’s Darkness. (Sorry, but I don’t remember the exact game.)
 
-## Final Notes
+# Final Notes
 Although I hope you learned something new, I don’t think the ideas and concepts here are particularly remarkable. If anything, I hope that I’ve communicated that one of the most critical aspects of warding is assessing and reacting to both the current game situation and how your opponent has been playing.
 
 Even though I included everything I know and remember, I’m sure that there are aspects about warding that I haven’t thought of or forgot to include. Aside from doing a lot of warding, a lot of my knowledge comes from watching and thinking about the warding in professional games. If you’re interested in improving further, I recommend you do the same.

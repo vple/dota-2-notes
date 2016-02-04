@@ -16,11 +16,11 @@ Although frequently overlooked by beginners, warding is a crucial aspect to winn
 
 Note that the focus of this article is to cover warding for the purpose of obtaining vision. Although important, this article does not cover warding to block camps or counter-warding.
 
-## Basics
+# Basics
 
 When someone refers to warding, they often mean buying and using an observer ward to provide vision somewhere on the map.
 
-### Observer Wards
+## Observer Wards
 
 An observer ward provides vision in a 1600 radius circle around the point that it is placed. This vision is ground vision, meaning that the vision that the ward provides is blocked by trees and does not reveal higher-level terrain.
 
@@ -28,13 +28,13 @@ Observer wards are consumable items that you can purchase at the main shop for 1
 
 To use an observer ward, select the ward then click on the ground where you would like to place your ward. You can transfer individual observer ward charges by selecting the ward and clicking on an allied hero.
 
-### Vision
+## Vision
 
 Vision is extremely important, as it gives you the information you need to make better decisions. Without using spells or items, you gain vision from three sources: allied towers, allied creeps, and allied heroes. Towers and creeps give you limited useful vision because you can’t directly control what vision they provide. Heroes can provide very useful vision. However, using your hero as a scout can be dangerous and inefficient.
 
 This problem is dealt with by using relevant spells and items to obtain vision. As you can guess, observer wards are one of the best tools for the job.
 
-## Useful Vision
+# Useful Vision
 
 Not all wards are created equal. At the start of the game, warding your jungle is not nearly as useful as warding the top rune. As the game goes on, this gets reversed; warding your jungle becomes more useful than warding the top rune. When warding, you want to make sure that your wards provide useful information to your team.
 
@@ -50,7 +50,7 @@ The latter is fairly straightforward. There are a variety of situations where kn
 * Seeing your opponent’s positioning before a team fight.
 * Knowing if your opponent is looking to take or avoid a fight.
 
-### Determining Useful Vision
+## Determining Useful Vision
 
 It’s easy to understand what kind of vision is useful. However, it takes experience to be able to identify where you should be warding during an actual game.
 
@@ -62,7 +62,7 @@ A team’s intent is (or should be) the team’s best course of action to win th
 
 As you start thinking about game status and team intent, it becomes more apparent where you need to gain vision. If your team wants to farm the jungle, get vision of the jungle entrances. If either team is looking to take Roshan, get vision of entrances to the Roshan pit. If the opposing team is looking to gank or fight, get vision of paths that they will likely walk through.
 
-### Examples
+## Examples
 
 At the beginning of the game, both teams are aiming to win their lanes by farming the lanes and obtaining kills where possible. As a result, you’ll usually already have vision of the opposing team. When you don’t, you want to know where a missing hero is going.
 
@@ -76,7 +76,7 @@ To apply pressure, our opponents have to cross the river (often into our jungle)
 
 The reasoning in these examples is something that any player can do! It just requires evaluating what is going on in the game.
 
-### A Few Tips
+## A Few Tips
 
 Here are a few more tips to improve your warding.
 
@@ -85,11 +85,11 @@ Here are a few more tips to improve your warding.
 * If you are placing wards to protect an area, place your wards such that they cover the **entrances** to that area. This is especially true when you want to make your jungle safe to farm. Your ward should spot your opponents as they are approaching you, not when they’re already on top of you!
 * Your wards should often define (imaginary) territory where your team feels safe or spot out your opponents where they feel safe. As the game progresses and towers fall, you should feel that some areas of the map are safe, some are neutral, and some are dangerous. This is flipped for your opponent; regions where you feel safe are often dangerous for them and vice versa. Your wards should cover these areas so that you know when your opponent enters your safe region or leaves their safe region. If you’re losing, focus on warding the border that defines your safe territory. If you’re winning, focus on warding the border that defines your opponent’s safe territory.
 
-## Common Ward Spots
+# Common Ward Spots
 
 Hopefully you now have a better understanding of warding. Let’s look at some common ward spots. These are the basic spots that every player should learn, although there are several common spots not included here. Remember than any ward is a good ward if it gets you the vision you need.
 
-### Rune Wards
+## Rune Wards
 
 These wards give you vision of the rune spawns.
 
@@ -121,7 +121,7 @@ These wards give you vision of the rune spawns.
   src="http://cdn.dota2notes.com/images/screenshots/2014/02/01/bw-top-rune-3.jpeg"
   caption="Hard to deward, but not as useful." %}
 
-### Lane Wards
+## Lane Wards
 
 These are wards that give you more vision in a lane. These particular wards are placed to give vision around towers as well.
 
@@ -150,7 +150,7 @@ These are wards that give you more vision in a lane. These particular wards are 
   src="http://cdn.dota2notes.com/images/screenshots/2014/02/01/bw-top-lane-2.jpeg"
   caption="Gives vision behind the Dire top tier 1 tower." %}
 
-### Jungle Wards
+## Jungle Wards
 
 These wards help you catch people walking through the jungle.
 
@@ -170,7 +170,7 @@ These wards help you catch people walking through the jungle.
 {% include image.html
   src="http://cdn.dota2notes.com/images/screenshots/2014/02/01/bw-dire-jungle-2.jpeg" %}
 
-### Base Wards
+## Base Wards
 
 These sneaky wards give you vision as you try to push into your opponent’s tier 3 towers. They can all be placed from outside of the base.
 
@@ -190,7 +190,7 @@ These sneaky wards give you vision as you try to push into your opponent’s tie
   src="http://cdn.dota2notes.com/images/screenshots/2014/02/01/bw-base-ward-dire-2.jpeg"
   caption="Shows the Dire bottom and middle tier 3 towers." %}
 
-### Additional Ward Spots
+## Additional Ward Spots
 
 You can find many more ward spots by searching online and watching other players’ games.
 <a href="http://www.team-dignitas.net/articles/blogs/dota/1092/dota-2-ultimate-guide-to-warding" target="_blank">
