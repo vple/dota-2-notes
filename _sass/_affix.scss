@@ -1,3 +1,8 @@
 .affix {
   margin-top: 1.5em;
 }
+
+.affix-top {
+  margin-top: 1.5em;
+  position: fixed !important;
+}

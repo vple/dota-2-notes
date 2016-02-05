@@ -1,7 +1,10 @@
-$header-height:   50px;
 $nav-link-color:  $medium-red;
 
 .main-header {
+  .navbar {
+    margin-bottom: 0;
+  }
+
   .navbar-brand {
     font-weight: bold;
   }

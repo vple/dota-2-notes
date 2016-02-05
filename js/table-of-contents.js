@@ -46,4 +46,7 @@ $(document).ready(function() {
   $('[data-spy="scroll"]').each(function () {
     var $spy = $(this).scrollspy('refresh');
   });
+
+  $('.js-toc').affix();
+  $('.js-toc').show();
 });
