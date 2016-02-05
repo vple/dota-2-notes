@@ -23,11 +23,11 @@
   // links
 
   %active-link {
-    color: $nav-link-color; //$nav-link-hover-color;
+    color: $nav-link-color;
     font-weight: bold;
   }
 
-  .nav a:hover {
+  .nav a:hover, .nav a:focus {
     border-left: 2px solid $nav-link-hover-color;
     background-color: transparent;
   }
