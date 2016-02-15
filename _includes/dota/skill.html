@@ -1,0 +1,15 @@
+{% assign hero = include.hero | slugify:'raw' %}
+{% assign skills = site.data.skills.[hero] %}
+{% assign skill = skills | where:'name',include.name | first %}
+
+<div class="skill media well">
+  <div class="media-left">
+    <img class="media-object" src="{{ skill.image }}">
+  </div>
+  <div class="media-body">
+    <{{ include.heading | default: 'h1'}} class="media-heading" data-no-toc="true">
+      {{ skill.name }}
+    </{{ include.heading | default: 'h1' }}
+    <span>{{ skill.description }}</span>
+  </div>
+</div>

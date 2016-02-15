@@ -1,0 +1,28 @@
+- name: Dark Pact
+  image: http://cdn.dota2notes.com/images/valve/skills/slark/dark-pact.png
+  description: >
+    After a short delay, Slark sacrifices some of his life blood, purging most
+    negative debuffs and dealing damage to enemy units around him and to
+    himself. Slark only takes 50% of the damage.
+
+- name: Pounce
+  image: http://cdn.dota2notes.com/images/valve/skills/slark/pounce.png
+  description: >
+    Slark leaps forward, grabbing the first hero he connects with. That unit
+    takes damage and is leashed to Slark, and can only move a limited distance
+    away from Slark's landing position.
+
+- name: Essence Shift
+  image: http://cdn.dota2notes.com/images/valve/skills/slark/essence-shift.png
+  description: >
+    Slark steals the life essence of enemy heroes with his attacks, draining
+    each of their attributes and converting them to bonus Agility.
+
+- name: Shadow Dance
+  image: http://cdn.dota2notes.com/images/valve/skills/slark/shadow-dance.png
+  description: >
+    When used, Slark hides himself in a cloud of shadows, becoming immune to
+    detection. Attacking, casting spells, and using items will not reveal
+    Slark. Passively, when not visible to the enemy team, Slark gains bonus
+    movement speed and health regeneration.
+

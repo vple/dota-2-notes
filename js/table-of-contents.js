@@ -7,6 +7,11 @@ $(document).ready(function() {
   var state = [];
   $('article.post').find(tocTargets).each(function(i) {
     var $self = $(this);
+    // Skip no-toc elements.
+    if ($self.attr('data-no-toc') == 'true') {
+      return;
+    }
+
     var level = $self.prop('tagName').substring(1); // elements are all header elements, i.e. H1
     // Create / collapse lists
     if (level > state.length) { // assuming that we will never skip a heading level
