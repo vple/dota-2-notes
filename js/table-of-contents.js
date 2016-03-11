@@ -29,7 +29,7 @@ $(document).ready(function() {
     // Assign ID to this heading
     // TODO: naming convention for ids
     var id = i + '-' + $self.text().toLowerCase();
-    id = id.replace(/ /g, '-');
+    id = id.replace(/[ ']/g, '-');
     $self.attr('id', id);
 
     // Generate link to this heading
