@@ -1,0 +1,300 @@
+- name: Abyssal Blade
+  image: http://cdn.dota2notes.com/images/valve/items/abyssal-blade.png
+  description: >
+    Active: Overwhelm - Stuns a target enemy unit for 2.0 seconds. Pierces
+    Spell Immunity.<br>
+    Passive: Bash - Grants each attack a chance to stun the target for 1.4
+    seconds and deal 120 bonus damage, based on whether the equipped hero is
+    ranged or melee.
+
+- name: Animal Courier
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Armlet of Mordiggian
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Assault Cuirass
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Battle Fury
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Black King Bar
+  image: http://cdn.dota2notes.com/images/valve/items/black-king-bar.png
+  description: >
+    Active: Avatar - Grants Spell Immunity and 100% Magic Damage Resistance.
+    Duration and cooldown decrease with each use. Some abilities are able to
+    disable through Avatar.
+
+- name: Blade Mail
+  image: http://cdn.dota2notes.com/images/valve/items/blade-mail.png
+  description: >
+    Active: Damage Return - Reflects any damage taken back to the unit that
+    dealt the damage. Lasts 4.5 seconds.
+
+- name: Bloodstone
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Boots of Travel
+  image: http://cdn.dota2notes.com/images/valve/items/boots-of-travel.png
+  description: >
+    Active: Teleport - Teleports you to an allied non-hero unit or structure.
+    Double-click to teleport to your team's base fountain. Upgradable to allow
+    you to teleport to allied heroes.<br><br>
+    Flat movement speed bonuses from multiple pairs of boots do not stack.
+
+- name: Bottle
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Butterfly
+  image: http://cdn.dota2notes.com/images/valve/items/butterfly.png
+  description: >
+    Active: Flutter - Trade evasion for 35% additional movement speed for 4.0
+    seconds.<br><br>
+    Stacks diminishingly with other sources of Evasion.
+
+- name: Clarity
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Crimson Guard
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Crystalys
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Daedalus
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Desolator
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Diffusal Blade
+  image: http://cdn.dota2notes.com/images/valve/items/diffusal-blade.png
+  description: >
+    Active: Purge - If cast on an enemy, removes buffs from the target and
+    slows it for 4.0 seconds. If cast on an ally, Purge removes most
+    debuffs.<br>
+    Passive: Manabreak - Each attack burns 25 mana from the target, and deals
+    the same amount in physical damage. Burns 12 mana per attack from ranged
+    illusions. Does not stack with other manabreak abilities.<br><br>
+    Upgradable.
+
+- name: Divine Rapier
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Dragon Lance
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Drum of Endurance
+  image: http://cdn.dota2notes.com/images/valve/items/drum-of-endurance.png
+  description: >
+    Active: Endurance - Gives bonus +25 attack speed and +13% movement speed
+    to allies in a 900 radius.<br>
+    Passive: Swiftness Aura - Gives bonus attack and movement speed to allies
+    in a 900 radius.<br><br>
+    Multiple instances of Swiftness Aura do not stack.
+
+- name: Dust of Appearance
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Enchanged Mango
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Ethereal Blade
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Eye of Skadi
+  image: http://cdn.dota2notes.com/images/valve/items/eye-of-skadi.png
+  description: >
+    Passive: Cold Attack - Each attack slows the movement and attack speed of
+    the target. The duration of the slow is based on whether the equipped hero
+    is melee or ranged.<br><br>
+    Eye of Skadi is a Unique Attack Modifier, and does not stack with other
+    Unique Attack Modifiers. Eye of Skadi can be combined with Lifesteal
+    Attack Modifiers.
+
+- name: Faerie Fire
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Flying Courier
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Healing Salve
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Heart of Tarrasque
+  image: http://cdn.dota2notes.com/images/valve/items/heart-of-tarrasque.png
+  description: >
+    Passive: Health Regeneration - Restores a percentage of max health per
+    second. If damage is taken from an enemy hero or Roshan, this ability is
+    disabled for 5 seconds for melee heroes, or 7 seconds for ranged heroes.
+
+- name: Heaven's Halberd
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Helm of the Dominator
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Hood of Defiance
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Iron Branch
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Linken's Sphere
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Lotus Orb
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Maelstrom
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Manta Style
+  image: http://cdn.dota2notes.com/images/valve/items/manta-style.png
+  description: >
+    Active: Mirror Image - Creates 2 images of your hero that last 20 seconds.
+    Melee heroes have a 30 second cooldown on this ability, while for Ranged
+    heroes the cooldown is 45 seconds.<br><br>
+    Melee images deal 33% damage and take 350% damage, while Ranged images
+    deal 28% and take 400% damage.<br><br>
+    Yasha-based movement speed bonuses from multiple items do not stack.
+
+- name: Mask of Madness
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Moon Shard
+  image: http://cdn.dota2notes.com/images/valve/items/moon-shard.png
+  description: >
+    Use: Consume the Moon Shard to permanently gain 60 attack speed. Does not
+    stack.<br>
+    Passive: Shade Sight - Grants 250 bonus night vision.
+
+- name: Mjollnir
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Monkey King Bar
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Observer Ward
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Phase Boots
+  image: http://cdn.dota2notes.com/images/valve/items/phase-boots.png
+  description: >
+    Active: Phase - Gives increased movement speed and lets you move through
+    units. The increased movement speed is based on whether the equipped hero
+    is melee or ranged.<br><br>
+    Flat movement speed bonuses from multiple pairs of boots do not stack.
+
+- name: Quelling Blade
+  image: http://cdn.dota2notes.com/images/valve/items/quelling-blade.png
+  description: >
+    Active: Chop Tree/Ward - Destroy a target tree or ward. Chop cast range is
+    increased when targetting wards.<br>
+    Passive: Quell - Increases attack damage against non-hero units, based on
+    whether the equipped hero is ranged or melee. Does not provide bonus
+    damage against Roshan.
+
+- name: Radiance
+  image: http://cdn.dota2notes.com/images/valve/items/radiance.png
+  description: >
+    Active: Toggle Burn - When active, scorches nearby enemies for 50 damage
+    per second and blinds them, causing them to miss 17% of their attacks.
+
+- name: Sange
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Sange and Yasha
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Satanic
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Sentry Ward
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Shadow Blade
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Shiva's Guard
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Silver Edge
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Skull Basher
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Smoke of Deceit
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Soul Booster
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Tango
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Town Portal Scroll
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Urn of Shadows
+  image: http://cdn.dota2notes.com/images/valve/items/urn-of-shadows.png
+  description: >
+    Active: Soul Release - Heals health over time to friendly units, but deals
+    pure damage over time to enemy units. The healing effect is lost if the
+    affected ally takes damage from an enemy hero or tower.<br>
+    Gains charges every time an enemy hero dies within 1400 units. Only the
+    closest Urn to the dying hero will gain a charge.
+
+- name: Vanguard
+  image: http://cdn.dota2notes.com/images/valve/items/clarity.png
+  description: >
+
+- name: Yasha
+  image: http://cdn.dota2notes.com/images/valve/items/yasha.png
+  description: >
+    Yasha-based movement speed bonuses from multiple items do not stack.
+

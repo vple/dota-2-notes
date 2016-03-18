@@ -1,0 +1,13 @@
+{% assign item = site.data.items | where:'name', include.name | first %}
+
+<div class="item media well">
+  <div class="media-left">
+    <img class="media-object" src="{{ item.image }}">
+  </div>
+  <div class="media-body">
+    <{{ include.heading | default: 'h1'}} class="media-heading" data-no-toc="true">
+      {{ item.name }}
+    </{{ include.heading | default: 'h1' }}
+    <span>{{ item.description }}</span>
+  </div>
+</div>
