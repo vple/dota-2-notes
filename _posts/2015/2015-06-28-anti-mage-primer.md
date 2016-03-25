@@ -114,7 +114,7 @@ So, how do you recognize these scenarios? The basic idea is that you can solo sp
 * The enemy team is grouped up and pushing your tower or rax.
 * Your team (excluding you) is grouped up and pushing a lane or looking for a gank.
 * The enemy team is trying to take Roshan.
-* The enemy team is farming, and you know where enough of there heroes are.
+* The enemy team is farming, and you know where enough of their heroes are.
 
 As mentioned before, some of these things sound like poor decisions, such as split pushing a tier 2 while your opponent is trying to break your tier 3. So, for these scenarios, you need to have an idea of possible outcomes and when you should go for one outcome over another. In more concrete terms, this usually means knowing when you will rejoin your team to fight with them rather than solo split pushing.
 
