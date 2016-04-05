@@ -1,0 +1,5 @@
+- name: Doom
+  image: http://cdn.dota2notes.com/images/valve/skills/doom/doom.png
+  description: >
+    Inflicts a curse that prevents an enemy Hero from casting spells or using
+    items, while taking damage over time. Upgradable by Aghanim's Scepter.

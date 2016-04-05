@@ -1,0 +1,6 @@
+- name: Reverse Polarity
+  image: http://cdn.dota2notes.com/images/valve/skills/magnus/reverse-polarity.png
+  description: >
+    Magnus changes properties of matter, sucking all nearby enemies in front
+    of him and stunning them with a powerful slam and dealing damage.
+    Upgradable by Aghanim's Scepter.

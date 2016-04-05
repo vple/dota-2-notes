@@ -1,0 +1,26 @@
+- name: Telekinesis
+  image: http://cdn.dota2notes.com/images/valve/skills/rubick/telekinesis.png
+  description: >
+    Rubick uses his telekinetic powers to lift the enemy into the air briefly
+    and then hurls them back at the ground. The unit lands on the ground with
+    such force that it stuns nearby enemies.
+
+- name: Fade Bolt
+  image: http://cdn.dota2notes.com/images/valve/skills/rubick/fade-bolt.png
+  description: >
+    Rubick creates a powerful stream of arcane energy that travels between
+    enemy units, dealing damage and reducing their attack damage. Each jump
+    deals less damage.
+
+- name: Null Field
+  image: http://cdn.dota2notes.com/images/valve/skills/rubick/null-field.png
+  description: >
+    Rubick's mastery of the arcane protects nearby allies against weaker
+    magics, granting them magic resistance.
+
+- name: Spell Steal
+  image: http://cdn.dota2notes.com/images/valve/skills/rubick/spell-steal.png
+  description: >
+    Rubick studies the trace magical essence of one enemy hero, learning the
+    secrets of the last spell the hero cast. Rubick can use this spell as his
+    own for several minutes or until he dies. Upgradable by Aghanim's Scepter.

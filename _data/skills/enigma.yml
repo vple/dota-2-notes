@@ -1,0 +1,6 @@
+- name: Black Hole
+  image: http://cdn.dota2notes.com/images/valve/skills/enigma/black-hole.png
+  description: >
+    CHANNELED - Summons a vortex that sucks in nearby enemy units. Enemies
+    affected by Black Hole cannot move, attack, or cast spells. Upgradable by
+    Aghanim's Scepter.

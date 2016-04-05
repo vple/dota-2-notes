@@ -1,0 +1,5 @@
+- name: Ravage
+  image: http://cdn.dota2notes.com/images/valve/skills/tidehunter/ravage.png
+  description: >
+    Slams the ground, causing tentacles to erupt in all directions, damaging
+    and stunning all nearby enemy units. Upgradable by Aghanim's Scepter.

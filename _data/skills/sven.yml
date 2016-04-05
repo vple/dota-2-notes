@@ -1,0 +1,5 @@
+- name: Storm Hammer
+  image: http://cdn.dota2notes.com/images/valve/skills/sven/storm-hammer.png
+  description: >
+    Sven unleashes his magical gauntlet that deals damage and stuns enemy
+    units.

@@ -1,0 +1,5 @@
+- name: Death Ward
+  image: http://cdn.dota2notes.com/images/valve/skills/witch-doctor/death-ward.png
+  description: >
+    CHANNELED - Summons a deadly ward to attack enemy heroes within 700 range.
+    Lasts a maximum of 8 seconds. Upgradable by Aghanim's Scepter.
