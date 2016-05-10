@@ -10,7 +10,7 @@ blurb: >
 
 {% include dota/skill.html hero="Rubick" name="Spell Steal" heading="h2" %}
 
-Rubick's Spell Steal can easily make or break a team fight. If Rubick manages to steal a good spell, such as Ravage, Fissure, or Black Hole, he can single-handedly win a fight for his team. In this article, we'll take a look at two techniques to playing around Rubick's Spell Steal.
+Rubick's Spell Steal can easily make or break a team fight. If Rubick manages to steal a good spell, such as Ravage, Fissure, or Black Hole, he can single-handedly win a fight for his team. In this article, we'll take a look at three techniques to playing around Rubick's Spell Steal.
 
 # Protect Your Spells
 
@@ -64,7 +64,7 @@ If you happen to already have Scorched Earth on cooldown, you could try to use D
 
 # Targeting Rubick
 
-The other technique to not giving Rubick an important spell is to make sure you catch him in your spell (if it's a disable) or your team kills him quickly. If you can manage to do this, you'll absolutely protect your spell. However, this is dependent on how good the enemy Rubick is---a good player will stay out of vision and be hard to catch.
+The second technique to not giving Rubick an important spell is to make sure you catch him in your spell (if it's a disable) or your team kills him quickly. If you can manage to do this, you'll absolutely protect your spell. However, this is dependent on how good the enemy Rubick is---a good player will stay out of vision and be hard to catch.
 
 The important thing to remember about this technique is that it requires either patience and awareness on your part, or a mistake on Rubick's part (or some combination of the two). **You will have to wait for an opportunity to catch Rubick.**
 
@@ -89,3 +89,11 @@ Magnus's Reverse Polarity is actually a very easy spell for Rubick to steal sinc
 {% include dota/skill.html hero="Enigma" name="Black Hole" heading="h2" %}
 
 Without a doubt, Enigma's Black Hole is one of the biggest and easiest spells that Rubick can steal. Unlike Witch Doctor's Voodoo Restoration, Enigma has no way of stopping Rubick from stealing Black Hole---other than catching him in it.
+
+# Watch Cooldowns
+
+The last technique to avoid giving Rubick an important spell is to wait until Rubick steals something else first. This works best when Rubick doesn't have an Aghanim's scepter; after he obtains one, the Spell Steal cooldown is very short.
+
+At level 3, Spell Steal has a 16 second cooldown. If Rubick steals a spell, this means that he's unable to steal any spell for a reasonable amount of time. During this window, you have the ability to use your valuable spells without worrying about Rubick stealing them.
+
+When this opportunity occurs, it's foolproof. However, a good Rubick will save his Spell Steal until he's able to get something that he wants. If you have a really big spell, like Black Hole, this could result in a sort of stalemate. You save your big spell to play around Spell Steal, whereas Rubick saves Spell Steal for your big spell. These situations can end up being tricky, and you'll have to decide if it's more important to use your spell or to prevent Rubick from stealing it.
